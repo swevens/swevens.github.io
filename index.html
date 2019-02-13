@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>swevens - Interactive Art</title>
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        margin: 0;
+        position: relative;
+        background: #ececec;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        overflow-y: scroll;
+        font-family: "Roboto", sans-serif;
+      }
+      .bg {
+        background-image: url(./assets/logo.png);
+        opacity: 1;
+        background-repeat: no-repeat;
+        background-position: 50% -100px;
+        background-size: auto auto;
+        position: fixed;
+        height: 100%;
+        top: 0px;
+        width: 100%;
+      }
+      section {
+        width: 100%;
+        margin: 0 auto;
+      }
+      footer {
+        position: fixed;
+        width: 100%;
+        right: 10px;
+        bottom: 5px;
+        height: auto;
+        text-align: right;
+      }
+      article {
+        max-width: 720px;
+        width: 100%;
+        height: 360px;
+        background: #ccc;
+        border: 10px #fff solid;
+        margin: 0 auto 40px;
+        position: relative;
+      }
+      article:nth-child(1) {
+        margin-top: 500px;
+      }
+      article .title {
+        position: absolute;
+        color: white;
+        width: 500px;
+        background: #121212;
+        padding: 15px;
+        bottom: 0px;
+        left: 0px;
+        height: 60px;
+        text-decoration: none;
+      }
+      article .head {
+        width: 100%;
+        display: block;
+        font-size: 18px;
+      }
+      article .desc {
+        width: 100%;
+        font-size: 12px;
+      }
+      article image {
+        display: inline-block;
+      }
+    </style>
+  </head>
+  <body>
+    <section class="bg"></section>
+    <section>
+      <article>
+        <img src="./assets/formik.png" />
+        <div>
+          <a class="title" href="http://swevens.art/formik-yup-react-forms/">
+            <span class="head">Formik Yup React Forms</span>
+            <span class="desc"
+              >Super Simple Forms, validations and error handling with Formik &
+              Yup on React-Redux</span
+            >
+          </a>
+        </div>
+      </article>
+      <article>
+          <img src="./assets/archetron.png" />
+        <div>
+          <a class="title" href="http://swevens.art/archetron/">
+            <span class="head">ärcheTron</span>
+            <span class="desc"
+              >A Playful Multi Facet Data Visualization with elementry
+              principles of physics !</span
+            >
+          </a>
+        </div>
+      </article>
+      <article>
+          <img src="./assets/cyclic.png" />
+        <div>
+          <a class="title" href="http://swevens.art/cyclic-triangulations/">
+            <span class="head">Cyclic Triangulations</span>
+            <span class="desc">Randomized Geometrized Generative Art.</span>
+          </a>
+        </div>
+      </article>
+    </section>
+   
+  </body>
+</html>
