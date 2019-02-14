@@ -1,0 +1,120 @@
+.sun{
+	-webkit-border-radius:200px;
+	-moz-border-radius:200px;
+	-o-border-radius:200px;
+	border-radius:200px;
+	background-color:#222222;
+	position:absolute;
+	margin-left:-100px;
+	margin-top:-100px;
+	text-align:center;
+	height:200px;
+	width:160px;
+	display:block;
+	color:#FFF;left:50%;
+	top:50%;
+}
+
+.sun:before{
+	-webkit-border-radius:260px;
+	-moz-border-radius:260px;
+	-o-border-radius:260px;
+	border-radius:260px;
+	background-color:rgba(34, 34, 34, 0.09999999999999998);
+	position:absolute;
+	height:260px;
+	width:260px;
+	left:-30px;
+	top:-30px;
+	content:'';
+}
+
+.sun li{
+	list-style:none;
+	position:relative;
+	white-space:nowrap;
+	left:100px;top:100px;
+}
+
+.sun li a{
+	-webkit-border-radius:50px;
+	-moz-border-radius:50px;
+	-o-border-radius:50px;
+	border-radius:50px;
+	background-color:#222222;
+	position:absolute;
+	margin-left:-25px;
+	margin-top:-25px;
+	text-align:center;
+	height:50px;
+	width:50px;
+	position:absolute;
+	text-decoration:none;
+}
+
+.sun li a:before{
+	-webkit-border-radius:70px;
+	-moz-border-radius:70px;
+	-o-border-radius:70px;
+	border-radius:70px;
+	background-color:rgba(34, 34, 34, 0.09999999999999998);
+	position:absolute;
+	height:70px;
+	width:70px;
+	left:-10px;
+	top:-10px;
+	content:'';
+}
+.sun strong{line-height:24px;position:absolute;margin-top:-10px;width:100%;left:0px;top:50%;letter-spacing:-1px;font-weight:500;font-style:italic;font-size:24px;}
+
+.sun li a:before{z-index:-1;}
+.sun li a span{
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	-o-border-radius:5px;
+	border-radius:5px;
+	background-color:#222222;
+	position:absolute;
+	line-height:22px;
+	margin-top:-11px;
+	left:50%;
+	top:50%;
+	padding:0 7px 0 15px;
+	font-weight:500;
+	font-style:italic;
+	font-size:14px;
+	color:#FFF;
+}
+
+.sun li a:after{background-repeat:no-repeat;
+	background-position:center;
+	position:absolute;
+	opacity:0.6;
+	height:100%;
+	width:100%;
+	left:0;
+	top:0;
+	content:'';
+}
+
+/*.sun:after{
+	background-color: #222;
+	border-radius: 200px;
+	color: #fff;
+	display: block;
+	height: 200px;
+	width: 200px;
+	left: 50%;
+	top:50%;
+	position: absolute;
+	text-align: center;
+}*/
+
+.solar-system{
+	overflow: hidden;
+	position: absolute;
+	bottom: 30px;
+	top: 60px;
+	display: block;
+	width: 90%;
+}

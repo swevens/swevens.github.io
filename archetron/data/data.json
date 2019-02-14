@@ -1,0 +1,5274 @@
+{
+  "config": {
+    "maxEntropy": 14,
+    "maxSkills": 5,
+    "maxSubNodes": 13,
+    "skillChart": [
+      {
+        "cluster": "Project Management",
+        "color": "#efc24f"
+      },
+      {
+        "cluster": "Mobile Development",
+        "color": "#1b821b"
+      },
+      {
+        "cluster": "UI Design",
+        "color": "#6baa19"
+      },
+      {
+        "cluster": "Database Architect",
+        "color": "#9e3ad1"
+      },
+      {
+        "cluster": "Microsoft Technology Expert",
+        "color": "#65c5db"
+      },
+      {
+        "cluster": "Technology Architect",
+        "color": "#2155f2"
+      },
+      {
+        "cluster": "Business Analysis and Marketing Research",
+        "color": "#2155f2"
+      }
+    ],
+    "locationCode": [
+      {
+        "location": "North America",
+        "color": "255,255,255,1"
+      },
+      {
+        "location": "Europe",
+        "color": "90,90,90,1"
+      },
+      {
+        "location": "APAC",
+        "color": "35,35,35,1"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "Project Management",
+      "team": [
+        {
+          "skills": [
+            "Project Management"
+          ],
+          "entropy": 12,
+          "name": "am*#*/.$devarajan",
+          "designation": "Technology",
+          "mailID": "*./#*hadevarajan@****.com",
+          "variance": 0.652701,
+          "company": "**#**#*cStream",
+          "active": "false",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 7,
+          "name": "an*#*/.$l",
+          "designation": "Technology",
+          "mailID": "*./#*umar@****.com",
+          "variance": 0.63635,
+          "company": "**#**#*ahindra",
+          "active": "false",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "UI Design"
+          ],
+          "entropy": 12,
+          "name": "ar*#*/.$alesan",
+          "designation": "Technology",
+          "mailID": "*./#*amalesanr@****.com",
+          "variance": 0.544927,
+          "company": "**#**#*est",
+          "active": "false",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Mobile Development",
+            "UI Design",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 10,
+          "name": "ar*#*/.$amurthy",
+          "designation": "",
+          "mailID": "*./#*r80@****.com",
+          "variance": 0.602411,
+          "company": "**#**#*n",
+          "active": "true",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Database Architect",
+            "Technology Architect"
+          ],
+          "entropy": 15,
+          "name": "am*#*/.$s",
+          "designation": "",
+          "mailID": "*./#*lore_pm@****.com",
+          "variance": 0.504709,
+          "company": "**#**#*ys",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 12,
+          "name": "sh*#*/.$ar bellur",
+          "designation": "Program Management",
+          "mailID": "*./#*r_shashi@****.com",
+          "variance": 0.814948,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Mobile Development",
+            "Database Architect",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 10,
+          "name": "bh*#*/.$hah",
+          "designation": "",
+          "mailID": "*./#*nhshah@****.com",
+          "variance": 0.634528,
+          "company": "**#**#*ony",
+          "active": "true",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Mobile Development",
+            "UI Design",
+            "Database Architect",
+            "Technology Architect"
+          ],
+          "entropy": 9,
+          "name": "di*#*/.$u giri",
+          "designation": "IT Analyst",
+          "mailID": "*./#*ndhu.giri@****.com",
+          "variance": 0.821893,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Mobile Development"
+          ],
+          "entropy": 8,
+          "name": "du*#*/.$nerjee",
+          "designation": "Project Manager",
+          "mailID": "*./#*khattry@****.com",
+          "variance": 0.850234,
+          "company": "**#**#*ndia",
+          "active": "false",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Project Management"
+          ],
+          "entropy": 6,
+          "name": "go*#*/.$kar behera",
+          "designation": "Assistant Manager",
+          "mailID": "*./#*sankar2@****.com",
+          "variance": 0.629652,
+          "company": "**#**#*",
+          "active": "true",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "UI Design",
+            "Database Architect"
+          ],
+          "entropy": 4,
+          "name": "tu*#*/.$oyal",
+          "designation": "",
+          "mailID": "*./#*.tushar86@****.com",
+          "variance": 0.624593,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Mobile Development"
+          ],
+          "entropy": 4,
+          "name": "kr*#*/.$othuganti",
+          "designation": "",
+          "mailID": "*./#*h.pothuganti@****.com",
+          "variance": 0.739546,
+          "company": "**#**#*well",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Database Architect"
+          ],
+          "entropy": 15,
+          "name": "ku*#*/.$ash",
+          "designation": "Test Lead Advisor",
+          "mailID": "*./#*kash@****.com",
+          "variance": 0.482303,
+          "company": "**#**#*International",
+          "active": "true",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "UI Design"
+          ],
+          "entropy": 10,
+          "name": "ku*#*/.$nerjee",
+          "designation": "Program Management",
+          "mailID": "*./#*banerjee@****.com",
+          "variance": 0.820237,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Microsoft Technology Expert",
+            "Technology Architect",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 7,
+          "name": "ch*#*/.$umar",
+          "designation": "",
+          "mailID": "*./#*tan@****.com",
+          "variance": 0.619729,
+          "company": "**#**#*ys",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Database Architect"
+          ],
+          "entropy": 10,
+          "name": "sa*#*/.$",
+          "designation": "Manager",
+          "mailID": "*./#*ta.sanjan@****.com",
+          "variance": 0.83321,
+          "company": "**#**#*tec",
+          "active": "true",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Mobile Development"
+          ],
+          "entropy": 10,
+          "name": "ma*#*/.$hanka",
+          "designation": "Program Management",
+          "mailID": "*./#*i.shankar@****.com",
+          "variance": 0.805913,
+          "company": "**#**#*endent",
+          "active": "false",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Project Management"
+          ],
+          "entropy": 12,
+          "name": "mu*#*/.$anaparthy",
+          "designation": "Technology",
+          "mailID": "*./#*i_kanaparthy@****.com",
+          "variance": 0.673681,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Mobile Development",
+            "Database Architect",
+            "Microsoft Technology Expert"
+          ],
+          "entropy": 12,
+          "name": "pa*#*/.$soni",
+          "designation": "Program Management",
+          "mailID": "*./#*epsoni@****.com",
+          "variance": 0.983342,
+          "company": "**#**#*Technologies",
+          "active": "true",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Mobile Development"
+          ],
+          "entropy": 12,
+          "name": "pr*#*/.$sathyanarayana",
+          "designation": "",
+          "mailID": "*./#*epsathya@****.com",
+          "variance": 0.383342,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Microsoft Technology Expert"
+          ],
+          "entropy": 9,
+          "name": "pr*#*/.$rishnasamy",
+          "designation": "Technology",
+          "mailID": "*./#*d.krishnasamy@****.com",
+          "variance": 0.814803,
+          "company": "**#**#*lobal",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Technology Architect"
+          ],
+          "entropy": 10,
+          "name": "pr*#*/.$t sen",
+          "designation": "Technology",
+          "mailID": "*./#*njit.sen02@****.com",
+          "variance": 0.431546,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Project Management"
+          ],
+          "entropy": 7,
+          "name": "pr*#*/.$h jayappa",
+          "designation": "",
+          "mailID": "*./#*anth.jayappa@****.com",
+          "variance": 0.802161,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Technology Architect",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 7,
+          "name": "pr*#*/.$t mohanty",
+          "designation": "Sr. operation anlyst",
+          "mailID": "*./#*brata.mohanty@****.com",
+          "variance": 0.60278,
+          "company": "**#**#*ce",
+          "active": "true",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 7,
+          "name": "pu*#*/.$ganesan",
+          "designation": "Program Management",
+          "mailID": "*./#*ma1257@****.com",
+          "variance": 0.412618,
+          "company": "**#**#*",
+          "active": "true",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Project Management"
+          ],
+          "entropy": 7,
+          "name": "ra*#*/.$attacharjee",
+          "designation": "",
+          "mailID": "*./#*bhattacharya@****.com",
+          "variance": 0.429262,
+          "company": "**#**#*ture",
+          "active": "true",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Project Management"
+          ],
+          "entropy": 4,
+          "name": "ru*#*/.$pta",
+          "designation": "Program Management",
+          "mailID": "*./#*03gupta@****.com",
+          "variance": 0.803021,
+          "company": "**#**#*to",
+          "active": "false",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "UI Design"
+          ],
+          "entropy": 7,
+          "name": "sa*#*/.$raveendran",
+          "designation": "Program Management",
+          "mailID": "*./#*shrk@****.com",
+          "variance": 0.910192,
+          "company": "**#**#*",
+          "active": "true",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Technology Architect",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 10.5,
+          "name": "mo*#*/.$urana",
+          "designation": "Program Management",
+          "mailID": "*./#*icute@****.com",
+          "variance": 0.788208,
+          "company": "**#**#*erse",
+          "active": "false",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Database Architect",
+            "Microsoft Technology Expert",
+            "Technology Architect"
+          ],
+          "entropy": 18,
+          "name": "sa*#*/.$chellapilla",
+          "designation": "",
+          "mailID": "*./#*epsc2001@****.com",
+          "variance": 0.844377,
+          "company": "**#**#*endent",
+          "active": "false",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Database Architect",
+            "Microsoft Technology Expert"
+          ],
+          "entropy": 7,
+          "name": "sa*#*/.$alan",
+          "designation": "",
+          "mailID": "*./#*p.jalan@****.com",
+          "variance": 0.843841,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Microsoft Technology Expert",
+            "Technology Architect",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 12,
+          "name": "sa*#*/.$menon",
+          "designation": "",
+          "mailID": "*./#*shpm1@****.com",
+          "variance": 0.687384,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Database Architect"
+          ],
+          "entropy": 10,
+          "name": "sa*#*/.$kathuria",
+          "designation": "",
+          "mailID": "*./#*bh.kathuria009@****.com",
+          "variance": 0.635611,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Project Management"
+          ],
+          "entropy": 10,
+          "name": "va*#*/.$than balasubramanian",
+          "designation": "Program Management",
+          "mailID": "*./#*tovaid@****.com",
+          "variance": 0.640684,
+          "company": "**#**#*",
+          "active": "true",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Microsoft Technology Expert",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 8,
+          "name": "sa*#*/.$",
+          "designation": "",
+          "mailID": "*./#*th_ms@****.com",
+          "variance": 0.587197,
+          "company": "**#**#*ony",
+          "active": "true",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Mobile Development",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 12,
+          "name": "sh*#*/.$ar gopalakrishnan",
+          "designation": "Technology",
+          "mailID": "*./#*kumar.gopalakrishnan@****.com",
+          "variance": 0.84355,
+          "company": "**#**#*",
+          "active": "true",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Microsoft Technology Expert"
+          ],
+          "entropy": 17,
+          "name": "sa*#*/.$rout",
+          "designation": "Technology",
+          "mailID": "*./#*t1974@****.com",
+          "variance": 0.542964,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Mobile Development",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 4,
+          "name": "sm*#*/.$anjan padhy",
+          "designation": "IT",
+          "mailID": "*./#*kranjan@****.com",
+          "variance": 0.610447,
+          "company": "**#**#*te",
+          "active": "false",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Project Management"
+          ],
+          "entropy": 8,
+          "name": "sm*#*/.$llackal",
+          "designation": "",
+          "mailID": "*./#*007@****.com",
+          "variance": 0.794222,
+          "company": "**#**#*ne",
+          "active": "false",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Database Architect"
+          ],
+          "entropy": 12,
+          "name": "sr*#*/.$ kumar sahoo",
+          "designation": "Program Management",
+          "mailID": "*./#*ntak@****.com",
+          "variance": 0.63267,
+          "company": "**#**#*",
+          "active": "true",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "UI Design"
+          ],
+          "entropy": 7,
+          "name": "su*#*/.$chamuthu",
+          "designation": "",
+          "mailID": "*./#*pichamuthu@****.com",
+          "variance": 0.752828,
+          "company": "**#**#*",
+          "active": "true",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Project Management"
+          ],
+          "entropy": 12,
+          "name": "su*#*/.$dey",
+          "designation": "",
+          "mailID": "*./#*an.dey@****.com",
+          "variance": 0.385044,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Project Management"
+          ],
+          "entropy": 10,
+          "name": "su*#*/.$adambala",
+          "designation": "",
+          "mailID": "*./#*h.kadambala@****.com",
+          "variance": 0.751684,
+          "company": "**#**#*te",
+          "active": "true",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Mobile Development"
+          ],
+          "entropy": 11,
+          "name": "ga*#*/.$ikyani",
+          "designation": "Technology",
+          "mailID": "*./#*ni@****.com",
+          "variance": 0.773007,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Database Architect"
+          ],
+          "entropy": 8,
+          "name": "va*#*/.$i",
+          "designation": "",
+          "mailID": "*./#*anda@****.com",
+          "variance": 0.663798,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Project Management"
+          ],
+          "entropy": 7,
+          "name": "vi*#*/.$and",
+          "designation": "Program Management",
+          "mailID": "*./#*anand27@****.com",
+          "variance": 0.88372,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "UI Design",
+            "Database Architect",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 4,
+          "name": "v *#*/.$srinivas",
+          "designation": "Program Management",
+          "mailID": "*./#*lam@****.com",
+          "variance": 0.697666,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "APAC"
+        }
+      ],
+      "skills": [
+        "Project Management"
+      ],
+      "maxEntropy": 16,
+      "id": 1,
+      "tags": [
+        {
+          "count": 1892,
+          "word": "design"
+        },
+        {
+          "count": 1139,
+          "word": "product"
+        },
+        {
+          "count": 803,
+          "word": "experience"
+        },
+        {
+          "count": 802,
+          "word": "role"
+        },
+        {
+          "count": 791,
+          "word": "user"
+        },
+        {
+          "count": 733,
+          "word": "responsible"
+        },
+        {
+          "count": 712,
+          "word": "involved"
+        },
+        {
+          "count": 497,
+          "word": "new"
+        },
+        {
+          "count": 474,
+          "word": "ltd"
+        },
+        {
+          "count": 444,
+          "word": "functional"
+        },
+        {
+          "count": 392,
+          "word": "database"
+        },
+        {
+          "count": 392,
+          "word": "oracle"
+        },
+        {
+          "count": 375,
+          "word": "bangalore"
+        },
+        {
+          "count": 344,
+          "word": "information"
+        },
+        {
+          "count": 313,
+          "word": "review"
+        },
+        {
+          "count": 309,
+          "word": "execution"
+        },
+        {
+          "count": 296,
+          "word": "platform"
+        },
+        {
+          "count": 270,
+          "word": "sales"
+        },
+        {
+          "count": 264,
+          "word": "also"
+        },
+        {
+          "count": 258,
+          "word": "automation"
+        },
+        {
+          "count": 253,
+          "word": "scripts"
+        },
+        {
+          "count": 249,
+          "word": "analysis"
+        },
+        {
+          "count": 246,
+          "word": "handling"
+        },
+        {
+          "count": 243,
+          "word": "portal"
+        },
+        {
+          "count": 234,
+          "word": "application"
+        },
+        {
+          "count": 233,
+          "word": "interface"
+        },
+        {
+          "count": 230,
+          "word": "ensure"
+        },
+        {
+          "count": 216,
+          "word": "part"
+        },
+        {
+          "count": 207,
+          "word": "configuration"
+        },
+        {
+          "count": 202,
+          "word": "good"
+        },
+        {
+          "count": 194,
+          "word": "access"
+        },
+        {
+          "count": 194,
+          "word": "sharepoint"
+        },
+        {
+          "count": 191,
+          "word": "features"
+        },
+        {
+          "count": 185,
+          "word": "enterprise"
+        },
+        {
+          "count": 185,
+          "word": "languages"
+        },
+        {
+          "count": 179,
+          "word": "resources"
+        },
+        {
+          "count": 177,
+          "word": "projects"
+        },
+        {
+          "count": 176,
+          "word": "status"
+        },
+        {
+          "count": 175,
+          "word": "2000"
+        },
+        {
+          "count": 175,
+          "word": "improve"
+        },
+        {
+          "count": 172,
+          "word": "usability"
+        },
+        {
+          "count": 171,
+          "word": "monitoring"
+        },
+        {
+          "count": 171,
+          "word": "store"
+        },
+        {
+          "count": 169,
+          "word": "2013"
+        },
+        {
+          "count": 169,
+          "word": "order"
+        },
+        {
+          "count": 169,
+          "word": "search"
+        },
+        {
+          "count": 163,
+          "word": "center"
+        },
+        {
+          "count": 159,
+          "word": "enhancements"
+        },
+        {
+          "count": 159,
+          "word": "release"
+        },
+        {
+          "count": 156,
+          "word": "current"
+        },
+        {
+          "count": 153,
+          "word": "source"
+        },
+        {
+          "count": 143,
+          "word": "brand"
+        },
+        {
+          "count": 141,
+          "word": "administration"
+        },
+        {
+          "count": 139,
+          "word": "conducted"
+        },
+        {
+          "count": 134,
+          "word": "graphics"
+        },
+        {
+          "count": 134,
+          "word": "planning"
+        },
+        {
+          "count": 132,
+          "word": "people"
+        },
+        {
+          "count": 130,
+          "word": "validation"
+        },
+        {
+          "count": 127,
+          "word": "workflow"
+        },
+        {
+          "count": 121,
+          "word": "job"
+        },
+        {
+          "count": 118,
+          "word": "enable"
+        },
+        {
+          "count": 116,
+          "word": "learning"
+        },
+        {
+          "count": 112,
+          "word": "components"
+        },
+        {
+          "count": 111,
+          "word": "cost"
+        },
+        {
+          "count": 111,
+          "word": "retail"
+        },
+        {
+          "count": 108,
+          "word": "leadership"
+        },
+        {
+          "count": 108,
+          "word": "video"
+        },
+        {
+          "count": 106,
+          "word": "jsp"
+        },
+        {
+          "count": 105,
+          "word": "day"
+        },
+        {
+          "count": 105,
+          "word": "load"
+        },
+        {
+          "count": 105,
+          "word": "take"
+        },
+        {
+          "count": 104,
+          "word": "complex"
+        },
+        {
+          "count": 103,
+          "word": "done"
+        },
+        {
+          "count": 103,
+          "word": "problems"
+        },
+        {
+          "count": 100,
+          "word": "cross"
+        },
+        {
+          "count": 100,
+          "word": "fixing"
+        },
+        {
+          "count": 100,
+          "word": "installation"
+        },
+        {
+          "count": 100,
+          "word": "results"
+        },
+        {
+          "count": 100,
+          "word": "setup"
+        },
+        {
+          "count": 99,
+          "word": "mapping"
+        },
+        {
+          "count": 98,
+          "word": "game"
+        },
+        {
+          "count": 97,
+          "word": "manager"
+        },
+        {
+          "count": 95,
+          "word": "devices"
+        },
+        {
+          "count": 90,
+          "word": "cloud"
+        },
+        {
+          "count": 90,
+          "word": "collaboration"
+        },
+        {
+          "count": 88,
+          "word": "post"
+        },
+        {
+          "count": 87,
+          "word": "storage"
+        },
+        {
+          "count": 86,
+          "word": "mentoring"
+        },
+        {
+          "count": 85,
+          "word": "details"
+        },
+        {
+          "count": 84,
+          "word": "phone"
+        },
+        {
+          "count": 83,
+          "word": "open"
+        },
+        {
+          "count": 81,
+          "word": "contact"
+        },
+        {
+          "count": 81,
+          "word": "mobile"
+        },
+        {
+          "count": 81,
+          "word": "offers"
+        },
+        {
+          "count": 81,
+          "word": "target"
+        },
+        {
+          "count": 80,
+          "word": "billing"
+        }
+      ]
+    },
+    {
+      "name": "Mobile Development",
+      "team": [
+        {
+          "skills": [
+            "Project Management",
+            "Mobile Development"
+          ],
+          "entropy": 4,
+          "name": "am*#*/.$gh",
+          "designation": "Android",
+          "mailID": "*./#*ts@****.com",
+          "variance": 0.815714,
+          "company": "**#**#*ng",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Mobile Development"
+          ],
+          "entropy": 4,
+          "name": "br*#*/.$ kaur",
+          "designation": "Creative",
+          "mailID": "*./#*jot@****.com",
+          "variance": 0.870346,
+          "company": "**#**#*International",
+          "active": "false",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Mobile Development",
+            "Technology Architect"
+          ],
+          "entropy": 10,
+          "name": "br*#*/.$i padhy",
+          "designation": "Technical Leader creative",
+          "mailID": "*./#*basi@****.com",
+          "variance": 0.659661,
+          "company": "**#**#*ng",
+          "active": "false",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Mobile Development",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 7,
+          "name": "su*#*/.$akraborty",
+          "designation": "Technology",
+          "mailID": "*./#*p85@****.com",
+          "variance": 0.711292,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Mobile Development",
+            "Database Architect"
+          ],
+          "entropy": 4.2,
+          "name": "md*#*/.$z ahmed",
+          "designation": "SAL1",
+          "mailID": "*./#*134@****.com",
+          "variance": 0.83158,
+          "company": "**#**#*ys",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Mobile Development"
+          ],
+          "entropy": 8.1,
+          "name": "sa*#*/.$gopinathan",
+          "designation": "Architect",
+          "mailID": "*./#*thawarrier@****.com",
+          "variance": 0.612973,
+          "company": "**#**#*Technologies",
+          "active": "true",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Mobile Development"
+          ],
+          "entropy": 4,
+          "name": "an*#*/.$umar gupta",
+          "designation": "Ios",
+          "mailID": "*./#*.anurag1985@****.com",
+          "variance": 0.636902,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Mobile Development",
+            "UI Design"
+          ],
+          "entropy": 4,
+          "name": "ha*#*/.$rdhana reddy",
+          "designation": "iphone",
+          "mailID": "*./#*avr79@****.com",
+          "variance": 0.581086,
+          "company": "**#**#*ahindra",
+          "active": "false",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Mobile Development",
+            "Database Architect",
+            "Microsoft Technology Expert"
+          ],
+          "entropy": 10,
+          "name": "su*#*/.$alakrishna",
+          "designation": "",
+          "mailID": "*./#*70@****.com",
+          "variance": 0.676109,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Mobile Development",
+            "Microsoft Technology Expert"
+          ],
+          "entropy": 6,
+          "name": "ja*#*/.$v k",
+          "designation": "SAL1",
+          "mailID": "*./#*aj.email@****.com",
+          "variance": 0.821036,
+          "company": "**#**#*on",
+          "active": "true",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Mobile Development",
+            "Microsoft Technology Expert",
+            "Technology Architect"
+          ],
+          "entropy": 11,
+          "name": "jo*#*/.$",
+          "designation": "Architect",
+          "mailID": "*./#*u@****.com",
+          "variance": 0.530451,
+          "company": "**#**#*lobal",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Mobile Development",
+            "Database Architect",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 11,
+          "name": "sh*#*/.$.v.",
+          "designation": "Executive",
+          "mailID": "*./#*avittal@****.com",
+          "variance": 0.861613,
+          "company": "**#**#*avittal",
+          "active": "true",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Mobile Development",
+            "UI Design",
+            "Database Architect"
+          ],
+          "entropy": 7,
+          "name": "pr*#*/.$ kolar",
+          "designation": "",
+          "mailID": "*./#*2014@****.com",
+          "variance": 0.722816,
+          "company": "**#**#*",
+          "active": "true",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Mobile Development",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 9,
+          "name": "sr*#*/.$an",
+          "designation": "Web Consultant",
+          "mailID": "*./#*rsrini@****.com",
+          "variance": 0.999503,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Mobile Development"
+          ],
+          "entropy": 7,
+          "name": "ma*#*/.$okhale",
+          "designation": "Technology",
+          "mailID": "*./#*rgokhale.infy@****.com",
+          "variance": 0.76902,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Mobile Development"
+          ],
+          "entropy": 4,
+          "name": "mi*#*/.$",
+          "designation": "Technology",
+          "mailID": "*./#*l_v@****.com",
+          "variance": 0.870458,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Mobile Development",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 10,
+          "name": "ma*#*/.$n mundhra",
+          "designation": "",
+          "mailID": "*./#*nu@****.com",
+          "variance": 0.733371,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Mobile Development"
+          ],
+          "entropy": 4,
+          "name": "ja*#*/.$h v",
+          "designation": "Creative",
+          "mailID": "*./#*.jaga@****.com",
+          "variance": 0.705488,
+          "company": "**#**#*",
+          "active": "true",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Mobile Development"
+          ],
+          "entropy": 7,
+          "name": "ch*#*/.$shekar",
+          "designation": "Creative",
+          "mailID": "*./#*kar75@****.com",
+          "variance": 0.824948,
+          "company": "**#**#*na",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Mobile Development"
+          ],
+          "entropy": 6.7,
+          "name": "re*#*/.$retta pinto",
+          "designation": "SAL1",
+          "mailID": "*./#*renee@****.com",
+          "variance": 0.542056,
+          "company": "**#**#*zant",
+          "active": "true",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Mobile Development",
+            "Technology Architect"
+          ],
+          "entropy": 4,
+          "name": "pr*#*/.$gi",
+          "designation": "Technology",
+          "mailID": "*./#*yag@****.com",
+          "variance": 0.728329,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Mobile Development",
+            "UI Design",
+            "Microsoft Technology Expert",
+            "Technology Architect"
+          ],
+          "entropy": 8.5,
+          "name": "pr*#*/.$ n",
+          "designation": "Software Engineer/ Programmer",
+          "mailID": "*./#*nth.n2011@****.com",
+          "variance": 0.679517,
+          "company": "**#**#*nfotech",
+          "active": "true",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Mobile Development",
+            "Database Architect",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 7,
+          "name": "pr*#*/.$kumar nayak",
+          "designation": "",
+          "mailID": "*./#*enkumar.nayak@****.com",
+          "variance": 0.606672,
+          "company": "**#**#*a",
+          "active": "false",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Mobile Development"
+          ],
+          "entropy": 4,
+          "name": "ra*#*/.$dra hegde",
+          "designation": "Technology",
+          "mailID": "*./#*77@****.com",
+          "variance": 0.710503,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Mobile Development"
+          ],
+          "entropy": 16,
+          "name": "ra*#*/.$n sivaiah",
+          "designation": "Technology",
+          "mailID": "*./#*dran.sivaiah@****.com",
+          "variance": 0.678753,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Mobile Development"
+          ],
+          "entropy": 11,
+          "name": "ra*#*/.$ lakshmanan",
+          "designation": "Technology",
+          "mailID": "*./#*mar.lakshman@****.com",
+          "variance": 0.96959,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Mobile Development",
+            "Microsoft Technology Expert",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 4,
+          "name": "ra*#*/.$en",
+          "designation": "IT",
+          "mailID": "*./#*y.sen85@****.com",
+          "variance": 0.449721,
+          "company": "**#**#*",
+          "active": "true",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Mobile Development",
+            "Database Architect"
+          ],
+          "entropy": 4.11,
+          "name": "ra*#*/.$umar sharma",
+          "designation": "SAL1",
+          "mailID": "*./#*r1310@****.com",
+          "variance": 0.740565,
+          "company": "**#**#*ye",
+          "active": "true",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Mobile Development",
+            "Database Architect",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 4,
+          "name": "sa*#*/.$ kittur",
+          "designation": "Creative",
+          "mailID": "*./#*llahkittur97@****.com",
+          "variance": 0.838729,
+          "company": "**#**#*",
+          "active": "true",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Mobile Development"
+          ],
+          "entropy": 4,
+          "name": "m *#*/.$a sekara rao",
+          "designation": "Technology",
+          "mailID": "*./#*.malepati@****.com",
+          "variance": 0.863422,
+          "company": "**#**#*Technologies",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Mobile Development"
+          ],
+          "entropy": 7,
+          "name": "ni*#*/.$shekhar",
+          "designation": "Technology",
+          "mailID": "*./#*ar.nishant@****.com",
+          "variance": 0.659108,
+          "company": "**#**#*",
+          "active": "true",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Mobile Development",
+            "UI Design",
+            "Database Architect",
+            "Microsoft Technology Expert"
+          ],
+          "entropy": 10,
+          "name": "sh*#*/.$mar p",
+          "designation": "Head of iOS Develpment",
+          "mailID": "*./#*.kutti.kumar@****.com",
+          "variance": 0.621628,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Mobile Development"
+          ],
+          "entropy": 4,
+          "name": "sa*#*/.$sinha",
+          "designation": "Technology",
+          "mailID": "*./#*.saurabh09@****.com",
+          "variance": 0.666195,
+          "company": "**#**#*nternational",
+          "active": "false",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Mobile Development",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 12,
+          "name": "su*#*/.$k",
+          "designation": "Program Management",
+          "mailID": "*./#*h.it@****.com",
+          "variance": 0.447075,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Mobile Development"
+          ],
+          "entropy": 16,
+          "name": "su*#*/.$apneja",
+          "designation": "Solution Architect",
+          "mailID": "*./#*eja@****.com",
+          "variance": 0.538223,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Mobile Development",
+            "Microsoft Technology Expert"
+          ],
+          "entropy": 4,
+          "name": "su*#*/.$umar sasi",
+          "designation": "Technology",
+          "mailID": "*./#*hkm31@****.com",
+          "variance": 0.817991,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Mobile Development",
+            "Database Architect",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 4,
+          "name": "ut*#*/.$ngh",
+          "designation": "",
+          "mailID": "*./#*singh169@****.com",
+          "variance": 0.866393,
+          "company": "**#**#*well",
+          "active": "true",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Mobile Development"
+          ],
+          "entropy": 7,
+          "name": "va*#*/.$aya simha",
+          "designation": "IT",
+          "mailID": "*./#*imha@****.com",
+          "variance": 0.833479,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Mobile Development",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 12,
+          "name": "vi*#*/.$ivastava",
+          "designation": "Sr Tech Lead",
+          "mailID": "*./#*.srivastava@****.com",
+          "variance": 0.637858,
+          "company": "**#**#*te",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Mobile Development",
+            "Database Architect",
+            "Microsoft Technology Expert"
+          ],
+          "entropy": 4,
+          "name": "vi*#*/.$mar singh",
+          "designation": "Technology",
+          "mailID": "*./#*kumarsingh208@****.com",
+          "variance": 0.399503,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Mobile Development",
+            "Microsoft Technology Expert",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 4,
+          "name": "ye*#*/.$h khemkar",
+          "designation": "Technology",
+          "mailID": "*./#*anth1981@****.com",
+          "variance": 0.680746,
+          "company": "**#**#*",
+          "active": "true",
+          "location": "North America"
+        }
+      ],
+      "skills": [
+        "Mobile Development"
+      ],
+      "maxEntropy": 15,
+      "id": 2,
+      "tags": [
+        {
+          "count": 1864,
+          "word": "team"
+        },
+        {
+          "count": 1311,
+          "word": "work"
+        },
+        {
+          "count": 968,
+          "word": "data"
+        },
+        {
+          "count": 832,
+          "word": "server"
+        },
+        {
+          "count": 723,
+          "word": "software"
+        },
+        {
+          "count": 617,
+          "word": "support"
+        },
+        {
+          "count": 613,
+          "word": "solutions"
+        },
+        {
+          "count": 608,
+          "word": "requirements"
+        },
+        {
+          "count": 543,
+          "word": "india"
+        },
+        {
+          "count": 484,
+          "word": "various"
+        },
+        {
+          "count": 483,
+          "word": "sql"
+        },
+        {
+          "count": 459,
+          "word": "engineering"
+        },
+        {
+          "count": 444,
+          "word": "marketing"
+        },
+        {
+          "count": 355,
+          "word": "training"
+        },
+        {
+          "count": 351,
+          "word": "qualities"
+        },
+        {
+          "count": 329,
+          "word": "preparing"
+        },
+        {
+          "count": 323,
+          "word": "skills"
+        },
+        {
+          "count": 321,
+          "word": "modules"
+        },
+        {
+          "count": 296,
+          "word": "different"
+        },
+        {
+          "count": 276,
+          "word": "responsibilities"
+        },
+        {
+          "count": 262,
+          "word": "can"
+        },
+        {
+          "count": 249,
+          "word": "internal"
+        },
+        {
+          "count": 246,
+          "word": "companies"
+        },
+        {
+          "count": 244,
+          "word": "issues"
+        },
+        {
+          "count": 243,
+          "word": "details"
+        },
+        {
+          "count": 238,
+          "word": "development"
+        },
+        {
+          "count": 232,
+          "word": "analytics"
+        },
+        {
+          "count": 231,
+          "word": "website"
+        },
+        {
+          "count": 229,
+          "word": "cases"
+        },
+        {
+          "count": 229,
+          "word": "related"
+        },
+        {
+          "count": 228,
+          "word": "understanding"
+        },
+        {
+          "count": 222,
+          "word": "network"
+        },
+        {
+          "count": 215,
+          "word": "changes"
+        },
+        {
+          "count": 215,
+          "word": "months"
+        },
+        {
+          "count": 211,
+          "word": "account"
+        },
+        {
+          "count": 211,
+          "word": "global"
+        },
+        {
+          "count": 208,
+          "word": "education"
+        },
+        {
+          "count": 203,
+          "word": "adobe"
+        },
+        {
+          "count": 200,
+          "word": "testing"
+        },
+        {
+          "count": 199,
+          "word": "domain"
+        },
+        {
+          "count": 185,
+          "word": "set"
+        },
+        {
+          "count": 184,
+          "word": "specific"
+        },
+        {
+          "count": 179,
+          "word": "security"
+        },
+        {
+          "count": 176,
+          "word": "services"
+        },
+        {
+          "count": 175,
+          "word": "creation"
+        },
+        {
+          "count": 175,
+          "word": "delivery"
+        },
+        {
+          "count": 173,
+          "word": "analyzing"
+        },
+        {
+          "count": 167,
+          "word": "studio"
+        },
+        {
+          "count": 166,
+          "word": "existing"
+        },
+        {
+          "count": 163,
+          "word": "university"
+        },
+        {
+          "count": 156,
+          "word": "technologies"
+        },
+        {
+          "count": 151,
+          "word": "2009"
+        },
+        {
+          "count": 148,
+          "word": "applications"
+        },
+        {
+          "count": 141,
+          "word": "2003"
+        },
+        {
+          "count": 136,
+          "word": "2006"
+        },
+        {
+          "count": 136,
+          "word": "linux"
+        },
+        {
+          "count": 129,
+          "word": "industries"
+        },
+        {
+          "count": 125,
+          "word": "files"
+        },
+        {
+          "count": 124,
+          "word": "ability"
+        },
+        {
+          "count": 121,
+          "word": "needs"
+        },
+        {
+          "count": 119,
+          "word": "digital"
+        },
+        {
+          "count": 117,
+          "word": "offshore"
+        },
+        {
+          "count": 115,
+          "word": "contribute"
+        },
+        {
+          "count": 115,
+          "word": "usable"
+        },
+        {
+          "count": 112,
+          "word": "bug"
+        },
+        {
+          "count": 112,
+          "word": "leadership"
+        },
+        {
+          "count": 111,
+          "word": "extensively"
+        },
+        {
+          "count": 111,
+          "word": "onsite"
+        },
+        {
+          "count": 110,
+          "word": "optimization"
+        },
+        {
+          "count": 110,
+          "word": "summaries"
+        },
+        {
+          "count": 106,
+          "word": "direct"
+        },
+        {
+          "count": 106,
+          "word": "location"
+        },
+        {
+          "count": 106,
+          "word": "school"
+        },
+        {
+          "count": 105,
+          "word": "write"
+        },
+        {
+          "count": 104,
+          "word": "maintenance"
+        },
+        {
+          "count": 104,
+          "word": "period"
+        },
+        {
+          "count": 104,
+          "word": "scope"
+        },
+        {
+          "count": 103,
+          "word": "associated"
+        },
+        {
+          "count": 103,
+          "word": "institutions"
+        },
+        {
+          "count": 102,
+          "word": "types"
+        },
+        {
+          "count": 101,
+          "word": "infrastructure"
+        },
+        {
+          "count": 101,
+          "word": "vendors"
+        },
+        {
+          "count": 100,
+          "word": "defined"
+        },
+        {
+          "count": 98,
+          "word": "insurance"
+        },
+        {
+          "count": 98,
+          "word": "point"
+        },
+        {
+          "count": 97,
+          "word": "life"
+        },
+        {
+          "count": 94,
+          "word": "including"
+        },
+        {
+          "count": 90,
+          "word": "effort"
+        },
+        {
+          "count": 90,
+          "word": "portfolio"
+        },
+        {
+          "count": 89,
+          "word": "augment"
+        },
+        {
+          "count": 89,
+          "word": "jquery"
+        },
+        {
+          "count": 87,
+          "word": "android"
+        },
+        {
+          "count": 87,
+          "word": "ecommerce"
+        },
+        {
+          "count": 86,
+          "word": "birth"
+        },
+        {
+          "count": 86,
+          "word": "implementation"
+        },
+        {
+          "count": 84,
+          "word": "course"
+        },
+        {
+          "count": 84,
+          "word": "first"
+        },
+        {
+          "count": 83,
+          "word": "manual"
+        }
+      ]
+    },
+    {
+      "name": "UI Design",
+      "team": [
+        {
+          "skills": [
+            "UI Design",
+            "Technology Architect"
+          ],
+          "entropy": 4,
+          "name": "go*#*/.$ babu",
+          "designation": "Web Designer",
+          "mailID": "*./#*gopinadhbabu@****.com",
+          "variance": 0.883529,
+          "company": "**#**#*n",
+          "active": "false",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "UI Design",
+            "Database Architect"
+          ],
+          "entropy": 14,
+          "name": "an*#*/.$rkar",
+          "designation": "Manager - Web Applications",
+          "mailID": "*./#*_nerkar@****.com",
+          "variance": 0.82913,
+          "company": "**#**#*e",
+          "active": "true",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "UI Design",
+            "Microsoft Technology Expert"
+          ],
+          "entropy": 13,
+          "name": "ar*#*/.$",
+          "designation": "User Experience Architect",
+          "mailID": "*./#*y.roy@****.com",
+          "variance": 0.636208,
+          "company": "**#**#*ys",
+          "active": "true",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "UI Design"
+          ],
+          "entropy": 13,
+          "name": "ar*#*/.$",
+          "designation": "Associate Manager/Project Delivery Management/UX Creative Lead",
+          "mailID": "*./#*d.hebbur@****.com",
+          "variance": 0.640765,
+          "company": "**#**#*ture",
+          "active": "true",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Mobile Development",
+            "UI Design",
+            "Database Architect"
+          ],
+          "entropy": 12,
+          "name": "bi*#*/.$ta mohapatra",
+          "designation": "Information Developer",
+          "mailID": "*./#*ech@****.com",
+          "variance": 0.849451,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "UI Design"
+          ],
+          "entropy": 10,
+          "name": "ga*#*/.$arjunan",
+          "designation": "UI manager",
+          "mailID": "*./#*nergans@****.com",
+          "variance": 0.619325,
+          "company": "**#**#*ony",
+          "active": "true",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "UI Design",
+            "Database Architect",
+            "Technology Architect",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 4,
+          "name": "gn*#*/.$a paladugu",
+          "designation": "Creative",
+          "mailID": "*./#*_sri@****.com",
+          "variance": 0.749604,
+          "company": "**#**#*",
+          "active": "true",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "UI Design",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 8,
+          "name": "gu*#*/.$ b",
+          "designation": "UI n UX Lead",
+          "mailID": "*./#*xguru123@****.com",
+          "variance": 0.589428,
+          "company": "**#**#*ony",
+          "active": "false",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "UI Design"
+          ],
+          "entropy": 8,
+          "name": "im*#*/.$ peruven",
+          "designation": "Sr. Associate",
+          "mailID": "*./#*yasp@****.com",
+          "variance": 0.792867,
+          "company": "**#**#*pot",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Mobile Development",
+            "UI Design",
+            "Database Architect",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 9,
+          "name": "ka*#*/.$ch. nahak",
+          "designation": "UI/UX Designer",
+          "mailID": "*./#*k@****.com",
+          "variance": 0.377747,
+          "company": "**#**#*pot",
+          "active": "false",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Mobile Development",
+            "UI Design",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 8,
+          "name": "ma*#*/.$an k",
+          "designation": "Web Graphic Designer",
+          "mailID": "*./#*981.designer@****.com",
+          "variance": 0.744149,
+          "company": "**#**#*r",
+          "active": "true",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "UI Design",
+            "Technology Architect"
+          ],
+          "entropy": 5,
+          "name": "na*#*/.$n",
+          "designation": "Graphic",
+          "mailID": "*./#*jart@****.com",
+          "variance": 0.817451,
+          "company": "**#**#*",
+          "active": "true",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Mobile Development",
+            "UI Design",
+            "Microsoft Technology Expert",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 10,
+          "name": "ba*#*/.$dra s shetty",
+          "designation": "Manager",
+          "mailID": "*./#*the.balu@****.com",
+          "variance": 0.399102,
+          "company": "**#**#*dum",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Mobile Development",
+            "UI Design",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 4,
+          "name": "na*#*/.$abu baleswaran",
+          "designation": "Sr. Associate",
+          "mailID": "*./#*hbabu.b@****.com",
+          "variance": 0.860348,
+          "company": "**#**#*nsultant",
+          "active": "true",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "UI Design"
+          ],
+          "entropy": 16,
+          "name": "ve*#*/.$ajan govindarajan",
+          "designation": "Senior UI Developer",
+          "mailID": "*./#*dad@****.com",
+          "variance": 0.394274,
+          "company": "**#**#*ony",
+          "active": "true",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "UI Design",
+            "Microsoft Technology Expert",
+            "Technology Architect",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 11,
+          "name": "pa*#*/.$mar attavar",
+          "designation": "Creative Design Architect",
+          "mailID": "*./#*kumar.attavar@****.com",
+          "variance": 0.806157,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Mobile Development",
+            "UI Design",
+            "Database Architect"
+          ],
+          "entropy": 9,
+          "name": "pr*#*/.$ lawrence",
+          "designation": "Manager",
+          "mailID": "*./#*ence21@****.com",
+          "variance": 0.765047,
+          "company": "**#**#*ive",
+          "active": "false",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "UI Design"
+          ],
+          "entropy": 8,
+          "name": "pr*#*/.$",
+          "designation": "Senior Information Architect",
+          "mailID": "*./#*ep.contact@****.com",
+          "variance": 0.64546,
+          "company": "**#**#*is",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "UI Design"
+          ],
+          "entropy": 8,
+          "name": "pr*#*/.$ patil",
+          "designation": "Team Lead_ games developer",
+          "mailID": "*./#*ywavez@****.com",
+          "variance": 0.845356,
+          "company": "**#**#*Gaming",
+          "active": "false",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "UI Design",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 10,
+          "name": "ra*#*/.$undaram k",
+          "designation": "User Experience Designer",
+          "mailID": "*./#*hsundaram@****.com",
+          "variance": 0.896698,
+          "company": "**#**#*al",
+          "active": "false",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "UI Design",
+            "Database Architect",
+            "Technology Architect"
+          ],
+          "entropy": 10,
+          "name": "ra*#*/.$ha k s",
+          "designation": "Senior Software Engineer",
+          "mailID": "*./#*antha2222@****.com",
+          "variance": 0.686888,
+          "company": "**#**#*ture",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "UI Design",
+            "Database Architect",
+            "Microsoft Technology Expert"
+          ],
+          "entropy": 12,
+          "name": "sh*#*/.$john",
+          "designation": "Creative",
+          "mailID": "*./#*esj@****.com",
+          "variance": 0.569329,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Mobile Development",
+            "UI Design",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 9,
+          "name": "n.*#*/.$athpurna",
+          "designation": "Operations Manager",
+          "mailID": "*./#*thpurna_nk@****.com",
+          "variance": 0.747807,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "UI Design"
+          ],
+          "entropy": 7,
+          "name": "th*#*/.$thomas",
+          "designation": "Sr. Associate",
+          "mailID": "*./#*t@****.com",
+          "variance": 0.620055,
+          "company": "**#**#*ic",
+          "active": "true",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "UI Design"
+          ],
+          "entropy": 12,
+          "name": "um*#*/.$agalur",
+          "designation": "Senior Software Developer - UI Lead",
+          "mailID": "*./#*bagalur@****.com",
+          "variance": 0.763873,
+          "company": "**#**#*Digital",
+          "active": "true",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "UI Design",
+            "Database Architect",
+            "Microsoft Technology Expert"
+          ],
+          "entropy": 11,
+          "name": "vi*#*/.$rivastava",
+          "designation": "Project Leader",
+          "mailID": "*./#*swin@****.com",
+          "variance": 0.74358,
+          "company": "**#**#*IS",
+          "active": "true",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "UI Design"
+          ],
+          "entropy": 14,
+          "name": "ku*#*/.$",
+          "designation": "Creative",
+          "mailID": "*./#*ar95@****.com",
+          "variance": 0.589565,
+          "company": "**#**#*est",
+          "active": "true",
+          "location": "North America"
+        }
+      ],
+      "skills": [
+        "UI Design"
+      ],
+      "maxEntropy": 12,
+      "id": 3,
+      "tags": [
+        {
+          "count": 1320,
+          "word": "user"
+        },
+        {
+          "count": 1184,
+          "word": "client"
+        },
+        {
+          "count": 1100,
+          "word": "web"
+        },
+        {
+          "count": 747,
+          "word": "technologies"
+        },
+        {
+          "count": 717,
+          "word": "tools"
+        },
+        {
+          "count": 606,
+          "word": "leading"
+        },
+        {
+          "count": 466,
+          "word": "years"
+        },
+        {
+          "count": 443,
+          "word": "java"
+        },
+        {
+          "count": 403,
+          "word": "integration"
+        },
+        {
+          "count": 386,
+          "word": "program"
+        },
+        {
+          "count": 371,
+          "word": "windows"
+        },
+        {
+          "count": 352,
+          "word": "2010"
+        },
+        {
+          "count": 329,
+          "word": "time"
+        },
+        {
+          "count": 320,
+          "word": "interaction"
+        },
+        {
+          "count": 306,
+          "word": "visual"
+        },
+        {
+          "count": 295,
+          "word": "2008"
+        },
+        {
+          "count": 292,
+          "word": "date"
+        },
+        {
+          "count": 281,
+          "word": "consulting"
+        },
+        {
+          "count": 273,
+          "word": "environment"
+        },
+        {
+          "count": 259,
+          "word": "build"
+        },
+        {
+          "count": 254,
+          "word": "across"
+        },
+        {
+          "count": 254,
+          "word": "http"
+        },
+        {
+          "count": 248,
+          "word": "complete"
+        },
+        {
+          "count": 232,
+          "word": "tracking"
+        },
+        {
+          "count": 223,
+          "word": "till"
+        },
+        {
+          "count": 215,
+          "word": "css"
+        },
+        {
+          "count": 207,
+          "word": "award"
+        },
+        {
+          "count": 197,
+          "word": "will"
+        },
+        {
+          "count": 196,
+          "word": "xml"
+        },
+        {
+          "count": 189,
+          "word": "generation"
+        },
+        {
+          "count": 188,
+          "word": "description"
+        },
+        {
+          "count": 187,
+          "word": "best"
+        },
+        {
+          "count": 184,
+          "word": "unit"
+        },
+        {
+          "count": 181,
+          "word": "multiple"
+        },
+        {
+          "count": 179,
+          "word": "successful"
+        },
+        {
+          "count": 177,
+          "word": "duration"
+        },
+        {
+          "count": 176,
+          "word": "computer"
+        },
+        {
+          "count": 174,
+          "word": "core"
+        },
+        {
+          "count": 173,
+          "word": "2012"
+        },
+        {
+          "count": 161,
+          "word": "participated"
+        },
+        {
+          "count": 160,
+          "word": "effective"
+        },
+        {
+          "count": 156,
+          "word": "certified"
+        },
+        {
+          "count": 154,
+          "word": "corporate"
+        },
+        {
+          "count": 152,
+          "word": "deployment"
+        },
+        {
+          "count": 150,
+          "word": "following"
+        },
+        {
+          "count": 144,
+          "word": "phases"
+        },
+        {
+          "count": 140,
+          "word": "tasks"
+        },
+        {
+          "count": 135,
+          "word": "areas"
+        },
+        {
+          "count": 133,
+          "word": "agile"
+        },
+        {
+          "count": 130,
+          "word": "tools"
+        },
+        {
+          "count": 126,
+          "word": "migration"
+        },
+        {
+          "count": 125,
+          "word": "called"
+        },
+        {
+          "count": 124,
+          "word": "estimation"
+        },
+        {
+          "count": 124,
+          "word": "gathering"
+        },
+        {
+          "count": 122,
+          "word": "social"
+        },
+        {
+          "count": 121,
+          "word": "skills"
+        },
+        {
+          "count": 119,
+          "word": "view"
+        },
+        {
+          "count": 116,
+          "word": "get"
+        },
+        {
+          "count": 110,
+          "word": "career"
+        },
+        {
+          "count": 108,
+          "word": "schedule"
+        },
+        {
+          "count": 101,
+          "word": "php"
+        },
+        {
+          "count": 100,
+          "word": "profile"
+        },
+        {
+          "count": 100,
+          "word": "share"
+        },
+        {
+          "count": 98,
+          "word": "company"
+        },
+        {
+          "count": 97,
+          "word": "office"
+        },
+        {
+          "count": 91,
+          "word": "telecom"
+        },
+        {
+          "count": 91,
+          "word": "travel"
+        },
+        {
+          "count": 90,
+          "word": "unix"
+        },
+        {
+          "count": 89,
+          "word": "increase"
+        },
+        {
+          "count": 86,
+          "word": "xhtml"
+        },
+        {
+          "count": 85,
+          "word": "engagement"
+        },
+        {
+          "count": 83,
+          "word": "advanced"
+        },
+        {
+          "count": 82,
+          "word": "developer"
+        },
+        {
+          "count": 80,
+          "word": "reports"
+        },
+        {
+          "count": 78,
+          "word": "marketing"
+        },
+        {
+          "count": 78,
+          "word": "warehouse"
+        },
+        {
+          "count": 77,
+          "word": "connectivity"
+        },
+        {
+          "count": 77,
+          "word": "google"
+        },
+        {
+          "count": 75,
+          "word": "opportunities"
+        },
+        {
+          "count": 74,
+          "word": "2014"
+        },
+        {
+          "count": 74,
+          "word": "channel"
+        },
+        {
+          "count": 74,
+          "word": "revenue"
+        },
+        {
+          "count": 73,
+          "word": "run"
+        },
+        {
+          "count": 72,
+          "word": "studies"
+        },
+        {
+          "count": 70,
+          "word": "allows"
+        },
+        {
+          "count": 70,
+          "word": "number"
+        },
+        {
+          "count": 67,
+          "word": "audit"
+        },
+        {
+          "count": 67,
+          "word": "rate"
+        },
+        {
+          "count": 67,
+          "word": "relationship"
+        },
+        {
+          "count": 66,
+          "word": "diplomatically"
+        },
+        {
+          "count": 65,
+          "word": "hindi"
+        },
+        {
+          "count": 64,
+          "word": "dynamic"
+        },
+        {
+          "count": 63,
+          "word": "api"
+        },
+        {
+          "count": 63,
+          "word": "rules"
+        },
+        {
+          "count": 62,
+          "word": "challenging"
+        },
+        {
+          "count": 62,
+          "word": "solving"
+        }
+      ]
+    },
+    {
+      "name": "Database Architect",
+      "team": [
+        {
+          "skills": [
+            "Database Architect",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 4,
+          "name": "ar*#*/.$r",
+          "designation": "Technology",
+          "mailID": "*./#*treghu@****.com",
+          "variance": 0.643525,
+          "company": "**#**#*",
+          "active": "true",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Database Architect",
+            "Microsoft Technology Expert"
+          ],
+          "entropy": 4,
+          "name": "su*#*/.$ bagati",
+          "designation": "Technology",
+          "mailID": "*./#*i.subhendu@****.com",
+          "variance": 0.432697,
+          "company": "**#**#*",
+          "active": "true",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "UI Design",
+            "Database Architect",
+            "Microsoft Technology Expert"
+          ],
+          "entropy": 4,
+          "name": "ra*#*/.$dra hari",
+          "designation": "Technology",
+          "mailID": "*./#*dbhav@****.com",
+          "variance": 0.942883,
+          "company": "**#**#*",
+          "active": "true",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Database Architect",
+            "Technology Architect"
+          ],
+          "entropy": 14,
+          "name": "in*#*/.$rangaswamy",
+          "designation": "Technology",
+          "mailID": "*./#*ajr@****.com",
+          "variance": 0.773727,
+          "company": "**#**#*e",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Database Architect",
+            "Microsoft Technology Expert"
+          ],
+          "entropy": 7,
+          "name": "ja*#*/.$ sethy",
+          "designation": "",
+          "mailID": "*./#*ishsethycse@****.com",
+          "variance": 0.819342,
+          "company": "**#**#*",
+          "active": "true",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "UI Design",
+            "Database Architect"
+          ],
+          "entropy": 4,
+          "name": "ku*#*/.$ srivastava",
+          "designation": "",
+          "mailID": "*./#*gra01@****.com",
+          "variance": 0.585596,
+          "company": "**#**#*ile",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Database Architect",
+            "Microsoft Technology Expert"
+          ],
+          "entropy": 4,
+          "name": "ma*#*/.$onthu",
+          "designation": "Technology",
+          "mailID": "*./#*hdba.oracle@****.com",
+          "variance": 0.342883,
+          "company": "**#**#*n",
+          "active": "false",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Database Architect",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 4,
+          "name": "pa*#*/.$vam r",
+          "designation": "",
+          "mailID": "*./#*asivam.karunya@****.com",
+          "variance": 0.809493,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Database Architect"
+          ],
+          "entropy": 4,
+          "name": "sr*#*/.$magatapalli",
+          "designation": "IT",
+          "mailID": "*./#*vi.magatapalli@****.com",
+          "variance": 0.728382,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Database Architect"
+          ],
+          "entropy": 7,
+          "name": "se*#*/.$na reddy v",
+          "designation": "Technology",
+          "mailID": "*./#*lamseshu@****.com",
+          "variance": 0.911336,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "UI Design",
+            "Database Architect",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 4,
+          "name": "ab*#*/.$ soni",
+          "designation": "Technology",
+          "mailID": "*./#*alserver4@****.com",
+          "variance": 0.838245,
+          "company": "**#**#*de",
+          "active": "true",
+          "location": "Europe"
+        }
+      ],
+      "skills": [
+        "Database Architect"
+      ],
+      "maxEntropy": 14,
+      "id": 4,
+      "tags": [
+        {
+          "count": 730,
+          "word": "process"
+        },
+        {
+          "count": 624,
+          "word": "creating"
+        },
+        {
+          "count": 442,
+          "word": "planning"
+        },
+        {
+          "count": 349,
+          "word": "delivering"
+        },
+        {
+          "count": 268,
+          "word": "professional"
+        },
+        {
+          "count": 249,
+          "word": "communication"
+        },
+        {
+          "count": 248,
+          "word": "presentation"
+        },
+        {
+          "count": 246,
+          "word": "help"
+        },
+        {
+          "count": 209,
+          "word": "organization"
+        },
+        {
+          "count": 206,
+          "word": "pages"
+        },
+        {
+          "count": 196,
+          "word": "media"
+        },
+        {
+          "count": 192,
+          "word": "model"
+        },
+        {
+          "count": 188,
+          "word": "one"
+        },
+        {
+          "count": 174,
+          "word": "description"
+        },
+        {
+          "count": 168,
+          "word": "architecture"
+        },
+        {
+          "count": 166,
+          "word": "objective"
+        },
+        {
+          "count": 133,
+          "word": "performance"
+        },
+        {
+          "count": 131,
+          "word": "updates"
+        },
+        {
+          "count": 130,
+          "word": "strategic"
+        },
+        {
+          "count": 129,
+          "word": "2004"
+        },
+        {
+          "count": 117,
+          "word": "concepts"
+        },
+        {
+          "count": 112,
+          "word": "sap"
+        },
+        {
+          "count": 100,
+          "word": "assigned"
+        },
+        {
+          "count": 92,
+          "word": "organization"
+        },
+        {
+          "count": 87,
+          "word": "place"
+        },
+        {
+          "count": 84,
+          "word": "layer"
+        },
+        {
+          "count": 83,
+          "word": "address"
+        },
+        {
+          "count": 82,
+          "word": "creative"
+        },
+        {
+          "count": 74,
+          "word": "deals"
+        },
+        {
+          "count": 73,
+          "word": "architecture"
+        },
+        {
+          "count": 69,
+          "word": "2001"
+        },
+        {
+          "count": 69,
+          "word": "facility"
+        },
+        {
+          "count": 67,
+          "word": "entire"
+        },
+        {
+          "count": 66,
+          "word": "line"
+        },
+        {
+          "count": 63,
+          "word": "resolve"
+        },
+        {
+          "count": 63,
+          "word": "teams"
+        },
+        {
+          "count": 62,
+          "word": "classes"
+        },
+        {
+          "count": 59,
+          "word": "compliance"
+        },
+        {
+          "count": 58,
+          "word": "host"
+        },
+        {
+          "count": 57,
+          "word": "erp"
+        },
+        {
+          "count": 55,
+          "word": "performance"
+        },
+        {
+          "count": 53,
+          "word": "backup"
+        },
+        {
+          "count": 53,
+          "word": "remote"
+        },
+        {
+          "count": 49,
+          "word": "1999"
+        },
+        {
+          "count": 49,
+          "word": "b2bdirect"
+        },
+        {
+          "count": 45,
+          "word": "integration"
+        },
+        {
+          "count": 45,
+          "word": "modification"
+        },
+        {
+          "count": 44,
+          "word": "competitive"
+        },
+        {
+          "count": 44,
+          "word": "historical"
+        },
+        {
+          "count": 43,
+          "word": "academic"
+        },
+        {
+          "count": 42,
+          "word": "carried"
+        },
+        {
+          "count": 42,
+          "word": "upgrade"
+        },
+        {
+          "count": 41,
+          "word": "financial"
+        },
+        {
+          "count": 41,
+          "word": "identify"
+        },
+        {
+          "count": 39,
+          "word": "intelligence"
+        },
+        {
+          "count": 37,
+          "word": "application"
+        },
+        {
+          "count": 37,
+          "word": "escalations"
+        },
+        {
+          "count": 37,
+          "word": "vision"
+        },
+        {
+          "count": 36,
+          "word": "food"
+        },
+        {
+          "count": 36,
+          "word": "independently"
+        },
+        {
+          "count": 35,
+          "word": "towards"
+        },
+        {
+          "count": 33,
+          "word": "low"
+        },
+        {
+          "count": 32,
+          "word": "fidelity"
+        },
+        {
+          "count": 31,
+          "word": "aim"
+        },
+        {
+          "count": 30,
+          "word": "application"
+        },
+        {
+          "count": 29,
+          "word": "11g"
+        },
+        {
+          "count": 29,
+          "word": "healthcare"
+        },
+        {
+          "count": 29,
+          "word": "methodology"
+        },
+        {
+          "count": 29,
+          "word": "read"
+        },
+        {
+          "count": 27,
+          "word": "determine"
+        },
+        {
+          "count": 26,
+          "word": "development"
+        },
+        {
+          "count": 26,
+          "word": "stakeholders"
+        },
+        {
+          "count": 25,
+          "word": "acquisition"
+        },
+        {
+          "count": 25,
+          "word": "loan"
+        },
+        {
+          "count": 25,
+          "word": "next"
+        },
+        {
+          "count": 24,
+          "word": "dream"
+        },
+        {
+          "count": 23,
+          "word": "libraries"
+        },
+        {
+          "count": 23,
+          "word": "menu"
+        },
+        {
+          "count": 22,
+          "word": "partners"
+        },
+        {
+          "count": 22,
+          "word": "safety"
+        },
+        {
+          "count": 21,
+          "word": "developers"
+        },
+        {
+          "count": 21,
+          "word": "frontend"
+        },
+        {
+          "count": 21,
+          "word": "fund"
+        },
+        {
+          "count": 21,
+          "word": "semantic"
+        },
+        {
+          "count": 21,
+          "word": "sungard"
+        },
+        {
+          "count": 21,
+          "word": "transportation"
+        },
+        {
+          "count": 20,
+          "word": "accounts"
+        },
+        {
+          "count": 20,
+          "word": "without"
+        },
+        {
+          "count": 18,
+          "word": "ads"
+        },
+        {
+          "count": 18,
+          "word": "apart"
+        }
+      ]
+    },
+    {
+      "name": "Microsoft Technology Expert",
+      "team": [
+        {
+          "skills": [
+            "UI Design",
+            "Microsoft Technology Expert",
+            "Technology Architect"
+          ],
+          "entropy": 7,
+          "name": "ad*#*/.$umar",
+          "designation": "Technology",
+          "mailID": "*./#*htycon@****.com",
+          "variance": 0.849005,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "UI Design",
+            "Microsoft Technology Expert",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 7,
+          "name": "bh*#*/.$ram attiyannan",
+          "designation": "Technology",
+          "mailID": "*./#*thram.a@****.com",
+          "variance": 0.887835,
+          "company": "**#**#*",
+          "active": "true",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "UI Design",
+            "Microsoft Technology Expert"
+          ],
+          "entropy": 6.5,
+          "name": "ga*#*/.$kumar arya",
+          "designation": ".Net",
+          "mailID": "*./#*vkumararya@****.com",
+          "variance": 0.776984,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Mobile Development",
+            "Microsoft Technology Expert"
+          ],
+          "entropy": 8.5,
+          "name": "gi*#*/.$ ganeriwal",
+          "designation": "Senior Associate.Platform.L2",
+          "mailID": "*./#*ari@****.com",
+          "variance": 0.365453,
+          "company": "**#**#*ys",
+          "active": "true",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Database Architect",
+            "Microsoft Technology Expert"
+          ],
+          "entropy": 7,
+          "name": "ja*#*/.$rabhu doss",
+          "designation": "",
+          "mailID": "*./#*ndoss@****.com",
+          "variance": 0.685588,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Mobile Development",
+            "Database Architect",
+            "Microsoft Technology Expert"
+          ],
+          "entropy": 7,
+          "name": "je*#*/.$rthikeyan",
+          "designation": "Technology",
+          "mailID": "*./#*karthikeyan@****.com",
+          "variance": 0.834312,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Mobile Development",
+            "UI Design",
+            "Microsoft Technology Expert"
+          ],
+          "entropy": 12,
+          "name": "ma*#*/.$anan varadarajan",
+          "designation": "",
+          "mailID": "*./#*sudanan.varadarajan@****.com",
+          "variance": 0.638735,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Microsoft Technology Expert",
+            "Technology Architect"
+          ],
+          "entropy": 7,
+          "name": "ne*#*/.$daram",
+          "designation": "IT",
+          "mailID": "*./#*sundaram@****.com",
+          "variance": 0.648072,
+          "company": "**#**#*",
+          "active": "true",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Database Architect",
+            "Microsoft Technology Expert",
+            "Technology Architect"
+          ],
+          "entropy": 7,
+          "name": "ra*#*/.$",
+          "designation": "Technology",
+          "mailID": "*./#*umarlg2@****.com",
+          "variance": 0.901753,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Mobile Development",
+            "Microsoft Technology Expert"
+          ],
+          "entropy": 4,
+          "name": "si*#*/.$a shankar rath",
+          "designation": "Technology",
+          "mailID": "*./#*egame@****.com",
+          "variance": 0.51066,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Mobile Development",
+            "Microsoft Technology Expert"
+          ],
+          "entropy": 10,
+          "name": "si*#*/.$aamorthy",
+          "designation": "Technial Lead",
+          "mailID": "*./#*ingaamorthy@****.com",
+          "variance": 0.686691,
+          "company": "**#**#*a",
+          "active": "false",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Microsoft Technology Expert"
+          ],
+          "entropy": 7,
+          "name": "sr*#*/.$kash",
+          "designation": "Technology",
+          "mailID": "*./#*raks@****.com",
+          "variance": 0.416437,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Mobile Development",
+            "Microsoft Technology Expert"
+          ],
+          "entropy": 4,
+          "name": "su*#*/.$",
+          "designation": "IT",
+          "mailID": "*./#*.shiv@****.com",
+          "variance": 0.965453,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "UI Design",
+            "Microsoft Technology Expert",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 4,
+          "name": "sa*#*/.$",
+          "designation": "IT",
+          "mailID": "*./#*510@****.com",
+          "variance": 0.720908,
+          "company": "**#**#*",
+          "active": "true",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "UI Design",
+            "Microsoft Technology Expert",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 4,
+          "name": "um*#*/.$swara rao p",
+          "designation": "Technology",
+          "mailID": "*./#*hesh2020@****.com",
+          "variance": 0.798807,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Microsoft Technology Expert"
+          ],
+          "entropy": 12,
+          "name": "vi*#*/.$mar b l",
+          "designation": "Technology",
+          "mailID": "*./#*1559@****.com",
+          "variance": 0.789438,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Database Architect",
+            "Microsoft Technology Expert",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 7,
+          "name": "vi*#*/.$umar nv",
+          "designation": "Technology",
+          "mailID": "*./#*shkumar@****.com",
+          "variance": 0.837426,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Microsoft Technology Expert"
+          ],
+          "entropy": 15,
+          "name": "vi*#*/.$tel",
+          "designation": "Software Development - Sr. Advisor",
+          "mailID": "*./#*5174@****.com",
+          "variance": 0.81946,
+          "company": "**#**#*Inc.",
+          "active": "true",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Microsoft Technology Expert"
+          ],
+          "entropy": 8,
+          "name": "vi*#*/.$singh",
+          "designation": ".NET",
+          "mailID": "*./#*ut.104@****.com",
+          "variance": 0.70806,
+          "company": "**#**#*soft",
+          "active": "false",
+          "location": "APAC"
+        }
+      ],
+      "skills": [
+        "Microsoft Technology Expert"
+      ],
+      "maxEntropy": 15,
+      "id": 5,
+      "tags": [
+        {
+          "count": 2066,
+          "word": "management"
+        },
+        {
+          "count": 1343,
+          "word": "application"
+        },
+        {
+          "count": 1260,
+          "word": "testing"
+        },
+        {
+          "count": 758,
+          "word": "services"
+        },
+        {
+          "count": 653,
+          "word": "technical"
+        },
+        {
+          "count": 547,
+          "word": "performance"
+        },
+        {
+          "count": 405,
+          "word": "including"
+        },
+        {
+          "count": 349,
+          "word": "etc"
+        },
+        {
+          "count": 321,
+          "word": "pvt"
+        },
+        {
+          "count": 294,
+          "word": "html"
+        },
+        {
+          "count": 289,
+          "word": "members"
+        },
+        {
+          "count": 283,
+          "word": "end"
+        },
+        {
+          "count": 266,
+          "word": "2007"
+        },
+        {
+          "count": 252,
+          "word": "javascript"
+        },
+        {
+          "count": 251,
+          "word": "network"
+        },
+        {
+          "count": 250,
+          "word": "flash"
+        },
+        {
+          "count": 245,
+          "word": "size"
+        },
+        {
+          "count": 234,
+          "word": "senior"
+        },
+        {
+          "count": 228,
+          "word": "2005"
+        },
+        {
+          "count": 226,
+          "word": "high"
+        },
+        {
+          "count": 209,
+          "word": "coordinating"
+        },
+        {
+          "count": 196,
+          "word": "group"
+        },
+        {
+          "count": 178,
+          "word": "personal"
+        },
+        {
+          "count": 170,
+          "word": "initiatives"
+        },
+        {
+          "count": 169,
+          "word": "standards"
+        },
+        {
+          "count": 160,
+          "word": "bangalore"
+        },
+        {
+          "count": 155,
+          "word": "meetings"
+        },
+        {
+          "count": 153,
+          "word": "certified"
+        },
+        {
+          "count": 148,
+          "word": "maintenance"
+        },
+        {
+          "count": 147,
+          "word": "june"
+        },
+        {
+          "count": 145,
+          "word": "identified"
+        },
+        {
+          "count": 143,
+          "word": "photoshop"
+        },
+        {
+          "count": 139,
+          "word": "within"
+        },
+        {
+          "count": 136,
+          "word": "financial"
+        },
+        {
+          "count": 134,
+          "word": "requirements"
+        },
+        {
+          "count": 121,
+          "word": "systems"
+        },
+        {
+          "count": 117,
+          "word": "mysql"
+        },
+        {
+          "count": 101,
+          "word": "strategy"
+        },
+        {
+          "count": 99,
+          "word": "internet"
+        },
+        {
+          "count": 95,
+          "word": "strong"
+        },
+        {
+          "count": 91,
+          "word": "partners"
+        },
+        {
+          "count": 89,
+          "word": "clients"
+        },
+        {
+          "count": 88,
+          "word": "practices"
+        },
+        {
+          "count": 87,
+          "word": "focus"
+        },
+        {
+          "count": 79,
+          "word": "logic"
+        },
+        {
+          "count": 79,
+          "word": "products"
+        },
+        {
+          "count": 76,
+          "word": "title"
+        },
+        {
+          "count": 75,
+          "word": "delivery"
+        },
+        {
+          "count": 73,
+          "word": "database"
+        },
+        {
+          "count": 73,
+          "word": "world"
+        },
+        {
+          "count": 71,
+          "word": "position"
+        },
+        {
+          "count": 69,
+          "word": "logic"
+        },
+        {
+          "count": 68,
+          "word": "exposure"
+        },
+        {
+          "count": 68,
+          "word": "known"
+        },
+        {
+          "count": 65,
+          "word": "sessions"
+        },
+        {
+          "count": 63,
+          "word": "overall"
+        },
+        {
+          "count": 63,
+          "word": "stages"
+        },
+        {
+          "count": 62,
+          "word": "full"
+        },
+        {
+          "count": 57,
+          "word": "documents"
+        },
+        {
+          "count": 57,
+          "word": "house"
+        },
+        {
+          "count": 55,
+          "word": "exchange"
+        },
+        {
+          "count": 55,
+          "word": "since"
+        },
+        {
+          "count": 55,
+          "word": "special"
+        },
+        {
+          "count": 55,
+          "word": "transfer"
+        },
+        {
+          "count": 53,
+          "word": "regression"
+        },
+        {
+          "count": 51,
+          "word": "impact"
+        },
+        {
+          "count": 49,
+          "word": "marketing"
+        },
+        {
+          "count": 48,
+          "word": "browser"
+        },
+        {
+          "count": 48,
+          "word": "reporting"
+        },
+        {
+          "count": 46,
+          "word": "commercial"
+        },
+        {
+          "count": 46,
+          "word": "intranet"
+        },
+        {
+          "count": 44,
+          "word": "advertising"
+        },
+        {
+          "count": 44,
+          "word": "reference"
+        },
+        {
+          "count": 43,
+          "word": "estimation"
+        },
+        {
+          "count": 41,
+          "word": "tataconsultancyservices"
+        },
+        {
+          "count": 39,
+          "word": "agents"
+        },
+        {
+          "count": 39,
+          "word": "style"
+        },
+        {
+          "count": 39,
+          "word": "summary"
+        },
+        {
+          "count": 38,
+          "word": "deliverables"
+        },
+        {
+          "count": 37,
+          "word": "maintenance"
+        },
+        {
+          "count": 37,
+          "word": "organisation"
+        },
+        {
+          "count": 37,
+          "word": "segmentation"
+        },
+        {
+          "count": 37,
+          "word": "visa"
+        },
+        {
+          "count": 36,
+          "word": "adapt"
+        },
+        {
+          "count": 36,
+          "word": "location"
+        },
+        {
+          "count": 35,
+          "word": "dependencies"
+        },
+        {
+          "count": 35,
+          "word": "introduced"
+        },
+        {
+          "count": 35,
+          "word": "tfs"
+        },
+        {
+          "count": 33,
+          "word": "contribution"
+        },
+        {
+          "count": 33,
+          "word": "materials"
+        },
+        {
+          "count": 33,
+          "word": "onshore"
+        },
+        {
+          "count": 33,
+          "word": "trends"
+        },
+        {
+          "count": 32,
+          "word": "login"
+        }
+      ]
+    },
+    {
+      "name": "Technology Architect",
+      "team": [
+        {
+          "skills": [
+            "Technology Architect",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 10,
+          "name": "ar*#*/.$deivendran",
+          "designation": "Technology",
+          "mailID": "*./#*nd.deivendran@****.com",
+          "variance": 0.8181,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "UI Design",
+            "Technology Architect"
+          ],
+          "entropy": 8,
+          "name": "at*#*/.$y",
+          "designation": "Project Lead",
+          "mailID": "*./#*.roy@****.com",
+          "variance": 0.967386,
+          "company": "**#**#*ree",
+          "active": "true",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "UI Design",
+            "Technology Architect"
+          ],
+          "entropy": 5.5,
+          "name": "es*#*/.$",
+          "designation": "SAL2",
+          "mailID": "*./#*a.g@****.com",
+          "variance": 0.765439,
+          "company": "**#**#*matica",
+          "active": "true",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "UI Design",
+            "Technology Architect"
+          ],
+          "entropy": 16,
+          "name": "ha*#*/.$ore tadigotla",
+          "designation": "Sr. Manager",
+          "mailID": "*./#*ishore.t@****.com",
+          "variance": 0.714563,
+          "company": "**#**#*",
+          "active": "true",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "UI Design",
+            "Technology Architect"
+          ],
+          "entropy": 14,
+          "name": "ka*#*/.$saha",
+          "designation": "Manager-Projects-CRM",
+          "mailID": "*./#*12@****.com",
+          "variance": 0.494525,
+          "company": "**#**#*zant",
+          "active": "false",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Technology Architect",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 4,
+          "name": "ma*#*/.$an nedunczheian",
+          "designation": "IT",
+          "mailID": "*./#*nzn@****.com",
+          "variance": 0.837236,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Database Architect",
+            "Microsoft Technology Expert",
+            "Technology Architect",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 9,
+          "name": "ma*#*/.$jacob",
+          "designation": "Architect",
+          "mailID": "*./#*thjn@****.com",
+          "variance": 0.586778,
+          "company": "**#**#*mahindra",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Technology Architect"
+          ],
+          "entropy": 8,
+          "name": "lo*#*/.$souza",
+          "designation": "Technology",
+          "mailID": "*./#*hforall@****.com",
+          "variance": 0.778771,
+          "company": "**#**#*rce",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Mobile Development",
+            "Database Architect",
+            "Technology Architect",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 7,
+          "name": "pu*#*/.$wan",
+          "designation": "IT",
+          "mailID": "*./#*diwan@****.com",
+          "variance": 0.653958,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "UI Design",
+            "Database Architect",
+            "Technology Architect"
+          ],
+          "entropy": 14,
+          "name": "sr*#*/.$umaarms",
+          "designation": "Project Leader/ Project Manager",
+          "mailID": "*./#*umaar76@****.com",
+          "variance": 0.704392,
+          "company": "**#**#*ony",
+          "active": "true",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Mobile Development",
+            "Technology Architect",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 4,
+          "name": "ve*#*/.$agar",
+          "designation": "Technology",
+          "mailID": "*./#*.mecn@****.com",
+          "variance": 0.689948,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Technology Architect",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 4,
+          "name": "sa*#*/.$umar dhoot",
+          "designation": "IT",
+          "mailID": "*./#*n.dhoot@****.com",
+          "variance": 0.495968,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Microsoft Technology Expert",
+            "Technology Architect"
+          ],
+          "entropy": 7,
+          "name": "sa*#*/.$ndar",
+          "designation": "IT",
+          "mailID": "*./#*sundar.nayak@****.com",
+          "variance": 0.66792,
+          "company": "**#**#*",
+          "active": "true",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Technology Architect"
+          ],
+          "entropy": 4,
+          "name": "sa*#*/.$akash",
+          "designation": "Technology",
+          "mailID": "*./#*_coeb@****.com",
+          "variance": 0.367386,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Technology Architect",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 13,
+          "name": "so*#*/.$ripathy",
+          "designation": "Application Architect",
+          "mailID": "*./#*v.tri.pro@****.com",
+          "variance": 0.50659,
+          "company": "**#**#*ergy",
+          "active": "false",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Microsoft Technology Expert",
+            "Technology Architect",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 9,
+          "name": "su*#*/.$umar venkataraman",
+          "designation": "Senior Associate.Technology.L2",
+          "mailID": "*./#*hkumar.venkat@****.com",
+          "variance": 0.755293,
+          "company": "**#**#*",
+          "active": "true",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Mobile Development",
+            "Technology Architect"
+          ],
+          "entropy": 4,
+          "name": "ma*#*/.$ingh",
+          "designation": "Technology",
+          "mailID": "*./#*anish@****.com",
+          "variance": 0.51665,
+          "company": "**#**#*",
+          "active": "false",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "UI Design",
+            "Microsoft Technology Expert",
+            "Technology Architect",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 8,
+          "name": "vi*#*/.$inha",
+          "designation": "Technology",
+          "mailID": "*./#*m.mca01@****.com",
+          "variance": 0.43745,
+          "company": "**#**#*ture",
+          "active": "false",
+          "location": "North America"
+        }
+      ],
+      "skills": [
+        "Technology Architect"
+      ],
+      "maxEntropy": 1,
+      "id": 6,
+      "tags": [
+        {
+          "count": 2296,
+          "word": "development"
+        },
+        {
+          "count": 823,
+          "word": "customer"
+        },
+        {
+          "count": 680,
+          "word": "based"
+        },
+        {
+          "count": 498,
+          "word": "reports"
+        },
+        {
+          "count": 382,
+          "word": "code"
+        },
+        {
+          "count": 370,
+          "word": "like"
+        },
+        {
+          "count": 349,
+          "word": "analysis"
+        },
+        {
+          "count": 334,
+          "word": "framework"
+        },
+        {
+          "count": 319,
+          "word": "activities"
+        },
+        {
+          "count": 314,
+          "word": "site"
+        },
+        {
+          "count": 307,
+          "word": "mobile"
+        },
+        {
+          "count": 304,
+          "word": "knowledge"
+        },
+        {
+          "count": 301,
+          "word": "operations"
+        },
+        {
+          "count": 299,
+          "word": "online"
+        },
+        {
+          "count": 274,
+          "word": "banking"
+        },
+        {
+          "count": 250,
+          "word": "key"
+        },
+        {
+          "count": 237,
+          "word": "ibm"
+        },
+        {
+          "count": 229,
+          "word": "maintaining"
+        },
+        {
+          "count": 215,
+          "word": "email"
+        },
+        {
+          "count": 204,
+          "word": "application"
+        },
+        {
+          "count": 204,
+          "word": "control"
+        },
+        {
+          "count": 203,
+          "word": "excellent"
+        },
+        {
+          "count": 183,
+          "word": "environment"
+        },
+        {
+          "count": 178,
+          "word": "2011"
+        },
+        {
+          "count": 173,
+          "word": "analyst"
+        },
+        {
+          "count": 173,
+          "word": "may"
+        },
+        {
+          "count": 161,
+          "word": "research"
+        },
+        {
+          "count": 157,
+          "word": "j2ee"
+        },
+        {
+          "count": 153,
+          "word": "well"
+        },
+        {
+          "count": 149,
+          "word": "make"
+        },
+        {
+          "count": 132,
+          "word": "risk"
+        },
+        {
+          "count": 120,
+          "word": "feb"
+        },
+        {
+          "count": 120,
+          "word": "request"
+        },
+        {
+          "count": 117,
+          "word": "forms"
+        },
+        {
+          "count": 115,
+          "word": "experience"
+        },
+        {
+          "count": 113,
+          "word": "expertise"
+        },
+        {
+          "count": 106,
+          "word": "defects"
+        },
+        {
+          "count": 103,
+          "word": "innovative"
+        },
+        {
+          "count": 96,
+          "word": "university"
+        },
+        {
+          "count": 92,
+          "word": "flow"
+        },
+        {
+          "count": 92,
+          "word": "prototypes"
+        },
+        {
+          "count": 87,
+          "word": "board"
+        },
+        {
+          "count": 86,
+          "word": "stakeholders"
+        },
+        {
+          "count": 82,
+          "word": "novice"
+        },
+        {
+          "count": 81,
+          "word": "player"
+        },
+        {
+          "count": 80,
+          "word": "single"
+        },
+        {
+          "count": 76,
+          "word": "top"
+        },
+        {
+          "count": 75,
+          "word": "front"
+        },
+        {
+          "count": 74,
+          "word": "wipro"
+        },
+        {
+          "count": 73,
+          "word": "db2"
+        },
+        {
+          "count": 72,
+          "word": "region"
+        },
+        {
+          "count": 71,
+          "word": "external"
+        },
+        {
+          "count": 71,
+          "word": "state"
+        },
+        {
+          "count": 70,
+          "word": "goals"
+        },
+        {
+          "count": 69,
+          "word": "oracle"
+        },
+        {
+          "count": 68,
+          "word": "10g"
+        },
+        {
+          "count": 66,
+          "word": "analytics"
+        },
+        {
+          "count": 66,
+          "word": "sprint"
+        },
+        {
+          "count": 65,
+          "word": "procedures"
+        },
+        {
+          "count": 65,
+          "word": "selection"
+        },
+        {
+          "count": 61,
+          "word": "payment"
+        },
+        {
+          "count": 58,
+          "word": "national"
+        },
+        {
+          "count": 58,
+          "word": "policies"
+        },
+        {
+          "count": 57,
+          "word": "activities"
+        },
+        {
+          "count": 57,
+          "word": "field"
+        },
+        {
+          "count": 56,
+          "word": "appreciation"
+        },
+        {
+          "count": 56,
+          "word": "card"
+        },
+        {
+          "count": 56,
+          "word": "intelligence"
+        },
+        {
+          "count": 55,
+          "word": "action"
+        },
+        {
+          "count": 55,
+          "word": "given"
+        },
+        {
+          "count": 54,
+          "word": "eclipse"
+        },
+        {
+          "count": 52,
+          "word": "modules"
+        },
+        {
+          "count": 51,
+          "word": "years"
+        },
+        {
+          "count": 47,
+          "word": "declare"
+        },
+        {
+          "count": 47,
+          "word": "foundation"
+        },
+        {
+          "count": 47,
+          "word": "training"
+        },
+        {
+          "count": 46,
+          "word": "proficiency"
+        },
+        {
+          "count": 45,
+          "word": "information"
+        },
+        {
+          "count": 45,
+          "word": "interesting"
+        },
+        {
+          "count": 44,
+          "word": "important"
+        },
+        {
+          "count": 43,
+          "word": "simulation"
+        },
+        {
+          "count": 42,
+          "word": "members"
+        },
+        {
+          "count": 42,
+          "word": "third"
+        },
+        {
+          "count": 40,
+          "word": "regarding"
+        },
+        {
+          "count": 39,
+          "word": "small"
+        },
+        {
+          "count": 39,
+          "word": "taken"
+        },
+        {
+          "count": 39,
+          "word": "way"
+        },
+        {
+          "count": 38,
+          "word": "aspects"
+        },
+        {
+          "count": 38,
+          "word": "batch"
+        },
+        {
+          "count": 38,
+          "word": "term"
+        },
+        {
+          "count": 38,
+          "word": "true"
+        },
+        {
+          "count": 37,
+          "word": "among"
+        }
+      ]
+    },
+    {
+      "name": "Business Analysis and Marketing Research",
+      "team": [
+        {
+          "skills": [
+            "Mobile Development",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 8,
+          "name": "an*#*/.$heshwari",
+          "designation": "Senior Manager - Business Operations",
+          "mailID": "*./#*.chandak@****.com",
+          "variance": 0.361307,
+          "company": "**#**#*EDYPAL.COM",
+          "active": "true",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Database Architect",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 9,
+          "name": "de*#*/.$i hazarika",
+          "designation": "Senior Consultant - Digital Analytics Solutions ",
+          "mailID": "*./#*onihazarika@****.com",
+          "variance": 0.535881,
+          "company": "**#**#*r",
+          "active": "true",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 8,
+          "name": "de*#*/.$r maganti",
+          "designation": "Sr Analyst",
+          "mailID": "*./#*ndarm@****.com",
+          "variance": 0.344906,
+          "company": "**#**#*nalytic",
+          "active": "false",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Mobile Development",
+            "Technology Architect",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 7.5,
+          "name": "gi*#*/.$ n",
+          "designation": "Web Traffic Analyst",
+          "mailID": "*./#*han3@****.com",
+          "variance": 0.42221,
+          "company": "**#**#*Ractice",
+          "active": "true",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Mobile Development",
+            "UI Design",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 8.5,
+          "name": "go*#*/.$mmuri",
+          "designation": "Digital Manager",
+          "mailID": "*./#*kommuri@****.com",
+          "variance": 0.584925,
+          "company": "**#**#*ractice",
+          "active": "true",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Mobile Development",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 9,
+          "name": "gu*#*/.$ad rao b",
+          "designation": "Market Development Advisor (Software)",
+          "mailID": "*./#*i13@****.com",
+          "variance": 0.591266,
+          "company": "**#**#*ndia",
+          "active": "false",
+          "location": "North America"
+        },
+        {
+          "skills": [
+            "Project Management",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 8,
+          "name": "in*#*/.$n s",
+          "designation": "Sr. Associate",
+          "mailID": "*./#*ajan@****.com",
+          "variance": 0.829117,
+          "company": "**#**#*ct",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 6,
+          "name": "ka*#*/.$",
+          "designation": "UX Designer",
+          "mailID": "*./#*sh@****.com",
+          "variance": 0.944906,
+          "company": "**#**#*shala",
+          "active": "true",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "UI Design",
+            "Database Architect",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 14,
+          "name": "v.*#*/.$ kumar",
+          "designation": "Business Head",
+          "mailID": "*./#*1@****.com",
+          "variance": 0.453859,
+          "company": "**#**#*ix",
+          "active": "true",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 6,
+          "name": "ra*#*/.$mar",
+          "designation": "market analyst",
+          "mailID": "*./#*.aba@****.com",
+          "variance": 0.698238,
+          "company": "**#**#*",
+          "active": "true",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "Technology Architect",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 10,
+          "name": "ni*#*/.$ radhakrishna",
+          "designation": "Creative",
+          "mailID": "*./#*njanr@****.com",
+          "variance": 0.903261,
+          "company": "**#**#*",
+          "active": "true",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 15,
+          "name": "su*#*/.$ bidare",
+          "designation": "Founder Director",
+          "mailID": "*./#*h.bidare@****.com",
+          "variance": 0.631238,
+          "company": "**#**#*UIDE.in",
+          "active": "false",
+          "location": "Europe"
+        },
+        {
+          "skills": [
+            "Mobile Development",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 6,
+          "name": "di*#*/.$",
+          "designation": "Web Analyst/ Digital Marketing",
+          "mailID": "*./#*ar.dipali@****.com",
+          "variance": 0.389028,
+          "company": "**#**#*endent",
+          "active": "false",
+          "location": "APAC"
+        },
+        {
+          "skills": [
+            "UI Design",
+            "Database Architect",
+            "Business Analysis and Marketing Research"
+          ],
+          "entropy": 6,
+          "name": "va*#*/.$ parihar",
+          "designation": "Online Marketing Manager",
+          "mailID": "*./#*deriju@****.com",
+          "variance": 0.887738,
+          "company": "**#**#*ilearn.com",
+          "active": "false",
+          "location": "APAC"
+        }
+      ],
+      "skills": [
+        "Business Analysis and Marketing Research"
+      ],
+      "maxEntropy": 0,
+      "id": 7,
+      "tags": [
+        {
+          "count": 2635,
+          "word": "project"
+        },
+        {
+          "count": 1094,
+          "word": "business"
+        },
+        {
+          "count": 953,
+          "word": "system"
+        },
+        {
+          "count": 694,
+          "word": "provide"
+        },
+        {
+          "count": 659,
+          "word": "implementation"
+        },
+        {
+          "count": 443,
+          "word": "management"
+        },
+        {
+          "count": 301,
+          "word": "documents"
+        },
+        {
+          "count": 298,
+          "word": "content"
+        },
+        {
+          "count": 291,
+          "word": "level"
+        },
+        {
+          "count": 216,
+          "word": "name"
+        },
+        {
+          "count": 164,
+          "word": "architecture"
+        },
+        {
+          "count": 159,
+          "word": "achieve"
+        },
+        {
+          "count": 130,
+          "word": "scrum"
+        },
+        {
+          "count": 121,
+          "word": "decision"
+        },
+        {
+          "count": 106,
+          "word": "master"
+        },
+        {
+          "count": 98,
+          "word": "major"
+        },
+        {
+          "count": 98,
+          "word": "solutions"
+        },
+        {
+          "count": 91,
+          "word": "evaluation"
+        },
+        {
+          "count": 90,
+          "word": "assist"
+        },
+        {
+          "count": 87,
+          "word": "oct"
+        },
+        {
+          "count": 84,
+          "word": "critical"
+        },
+        {
+          "count": 83,
+          "word": "utilization"
+        },
+        {
+          "count": 79,
+          "word": "closely"
+        },
+        {
+          "count": 77,
+          "word": "consumer"
+        },
+        {
+          "count": 77,
+          "word": "guidance"
+        },
+        {
+          "count": 77,
+          "word": "technology"
+        },
+        {
+          "count": 74,
+          "word": "suite"
+        },
+        {
+          "count": 70,
+          "word": "capable"
+        },
+        {
+          "count": 67,
+          "word": "electronic"
+        },
+        {
+          "count": 59,
+          "word": "participated"
+        },
+        {
+          "count": 54,
+          "word": "booking"
+        },
+        {
+          "count": 52,
+          "word": "windows"
+        },
+        {
+          "count": 50,
+          "word": "contains"
+        },
+        {
+          "count": 50,
+          "word": "transition"
+        },
+        {
+          "count": 48,
+          "word": "scenarios"
+        },
+        {
+          "count": 46,
+          "word": "servlets"
+        },
+        {
+          "count": 42,
+          "word": "acceptance"
+        },
+        {
+          "count": 42,
+          "word": "engineering"
+        },
+        {
+          "count": 39,
+          "word": "techniques"
+        },
+        {
+          "count": 38,
+          "word": "concepts"
+        },
+        {
+          "count": 38,
+          "word": "suggestions"
+        },
+        {
+          "count": 37,
+          "word": "recruitment"
+        },
+        {
+          "count": 36,
+          "word": "look"
+        },
+        {
+          "count": 36,
+          "word": "perl"
+        },
+        {
+          "count": 35,
+          "word": "move"
+        },
+        {
+          "count": 33,
+          "word": "consulting"
+        },
+        {
+          "count": 33,
+          "word": "facebook"
+        },
+        {
+          "count": 33,
+          "word": "satisfaction"
+        },
+        {
+          "count": 32,
+          "word": "acquired"
+        },
+        {
+          "count": 32,
+          "word": "replication"
+        },
+        {
+          "count": 32,
+          "word": "sell"
+        },
+        {
+          "count": 32,
+          "word": "subject"
+        },
+        {
+          "count": 31,
+          "word": "now"
+        },
+        {
+          "count": 31,
+          "word": "south"
+        },
+        {
+          "count": 30,
+          "word": "covering"
+        },
+        {
+          "count": 29,
+          "word": "compatibility"
+        },
+        {
+          "count": 27,
+          "word": "suite"
+        },
+        {
+          "count": 26,
+          "word": "invoicing"
+        },
+        {
+          "count": 25,
+          "word": "leveraging"
+        },
+        {
+          "count": 25,
+          "word": "patent"
+        },
+        {
+          "count": 24,
+          "word": "keywords"
+        },
+        {
+          "count": 24,
+          "word": "physical"
+        },
+        {
+          "count": 23,
+          "word": "infrastructure"
+        },
+        {
+          "count": 22,
+          "word": "raised"
+        },
+        {
+          "count": 21,
+          "word": "employer"
+        },
+        {
+          "count": 21,
+          "word": "sync"
+        },
+        {
+          "count": 20,
+          "word": "liaison"
+        },
+        {
+          "count": 20,
+          "word": "platforms"
+        },
+        {
+          "count": 20,
+          "word": "schedule"
+        },
+        {
+          "count": 19,
+          "word": "devices"
+        },
+        {
+          "count": 19,
+          "word": "overseeing"
+        },
+        {
+          "count": 19,
+          "word": "patient"
+        },
+        {
+          "count": 18,
+          "word": "theme"
+        },
+        {
+          "count": 17,
+          "word": "benchmarking"
+        },
+        {
+          "count": 17,
+          "word": "validation"
+        },
+        {
+          "count": 17,
+          "word": "wrote"
+        },
+        {
+          "count": 16,
+          "word": "coaching"
+        },
+        {
+          "count": 16,
+          "word": "deployment"
+        },
+        {
+          "count": 16,
+          "word": "movie"
+        },
+        {
+          "count": 15,
+          "word": "customised"
+        },
+        {
+          "count": 15,
+          "word": "hardware"
+        },
+        {
+          "count": 15,
+          "word": "loss"
+        },
+        {
+          "count": 15,
+          "word": "lot"
+        },
+        {
+          "count": 15,
+          "word": "output"
+        },
+        {
+          "count": 14,
+          "word": "affiliate"
+        },
+        {
+          "count": 14,
+          "word": "globe"
+        },
+        {
+          "count": 14,
+          "word": "mentoring"
+        }
+      ]
+    }
+  ]
+}

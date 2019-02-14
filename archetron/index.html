@@ -1,43 +1,187 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <title>ärcheTron</title>
-    <style>
-      body {
-        margin: 0;
-        position: relative;
-        background: url(./images/pattern.gif) repeat, url(./images/pantone.jpg) no-repeat;
-        background-size: auto auto, 100% 100%;
-        -webkit-user-select: none;
-        -moz-user-select: none;
-        -ms-user-select: none;
-      }
-      section {
-        height: 100vh;
-        width: 100vw;
-        content: '';
-      }
-      footer {
-        position: absolute;
-        bottom: 0;
-        width: 100%;
-        right: 10px;
-        bottom: 5px;
-        height: auto;
-        text-align: right;
-      }
-      footer a {
-        color: rgba(255,255,255,.5) !important;
-        font-size: 10px;
-      }
-    </style>
-  </head>
-  <body>
-    <section>
-      <footer>
-          <a href="https://www.pantone.com/color-intelligence/color-of-the-year/color-of-the-year-2018">Background Inspired from Color of the Year 2018 - Pantone - #DesignWithPurpose</a>
-      </footer>
-    </section>
-  </body>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport">
+        <title>ärcheTron</title>
+
+        <link rel="stylesheet" href="css/jquery-ui.css">
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/font-styles.css">
+       
+        
+    </head>
+    <body class="movingBg">
+        <section id="intro">
+            <div class="page">
+                <h1>ärcheTron</h1>
+                <h2>prototype of particles</h2>
+                <h3>Interactive Multi dimentional data analytics visualization </h3>
+            <div><object data="img/intro.svg" id="intro"></object></div>
+            <dl>
+                <dd>
+                    <ul>
+                        <li>Tron: particles with physical attributes</li>
+                        <li>Attributes are mapped to an entity dataset</li>
+                        <li>Clusters of trons create an ecosytem</li>
+                    </ul>
+                </dd>
+            </dl>
+            <a class="enter button"><span>ENERGIZE</span></a>
+            </div>       
+        </section>
+        <section id="visualization">
+            <div>
+                <canvas id="main" width="1366" height="700">Your browser does not support Canvas</canvas>
+            </div>
+            <div class="cell-left">
+                 <span>powered by<span><br/>ärcheTron</span></span>
+            </div>
+            <div class="cell-right" >
+                 <a class="button search"><span>SEARCH TRON</span></a>
+            </div>
+
+            <div class="list">
+                <div class="pull-left data-list">
+                    <ul id="inner-arc">
+                        <li class="lead"><span class="list-icon"><span style="background-color:none">inner arc</span></span>
+                            <span class="list-title">INNER ARC</span>
+                        </li>
+                    </ul>
+                
+                    <ul id="outer-arc">
+                        <li class="lead"><span class="list-icon"><span style="background-color:none">outer arc</span></span>
+                            <span class="list-title">OUTER ARC</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        <section id="search">
+                <div id="searchScreen">
+                    <div id="pageTitle"><p>&nbsp;</p></div>
+                    <div id="container">
+                        <div class="leftScreen">
+                            <div class="voicePanel">
+                                <a class="button animate"><span class="icon-microphone"></span></a>
+                            </div>
+                        </div>
+                        <div class="rightScreen">
+                            <div class="suggest">
+                                <ul id="suggestData" ></ul>
+                            </div>
+                            <form class="forms">
+                                <div class="topPanel">
+                                <input type="text" name="archeSearch" placeholder="Type Your Name" class="textarea" />
+                                <a class="submit button blue"><span class="icon-arrow-right"></span></a>
+                                <a class="back button red"><span class="icon-times"></span></a>
+                                </div>
+                                <object data="img/keyboard.svg" id="keyboard"></object>
+                            </form>
+                            <div class="datalist"></div>
+                        </div>
+                    </div>
+                    </div>
+                <div class="searching">
+                    <h2> </h2>
+                </div>
+                </div>
+        </section>
+        <section id="tronScreen" class="clearfix">
+                <div class="tsLeft">
+                   <ul class="tronNames">
+                            <li>Tron</li>
+                        <li>Attributes</li>
+                        <li>Clusters</li>
+                            <li>Tron</li>
+                        <li>Attributes</li>
+                        <li>Clusters</li>
+                            <li>Tron</li>
+                        <li>Attributes</li>
+                        <li>Clusters</li>
+                            <li>Tron</li>
+                        <li>Attributes</li>
+                        <li>Clusters</li>
+                            <li>Tron</li>
+                        <li>Attributes</li>
+                        <li>Clusters</li>
+                            <li>Tron</li>
+                        <li>Attributes</li>
+                        <li>Clusters</li>
+                    </ul>
+                </div> 
+
+                <div class="tronContainer">
+                    <object data="img/tronHex.svg" id="tronHex"></object>
+                </div>
+
+                
+                    <!-- <div class="Upper">
+
+                        
+                        <div class="Uppertext clearfix">
+                            <div class="Upperdata">
+                                <div class="info">
+                                    <h2>TRON IDENTIFIED</h1>
+                                    <h2 class="name">--</h2>
+                                    <p class="email">--</p>
+                                    <p class="cmpy">--</p>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="Lower">
+                        <h1>CLUSTER - <p class="type">--</p></h1>
+                        <p class="cluster"></p>
+
+                        <div class="infoRate">
+                        </div>
+
+                    </div>
+                </div> -->
+                
+                 
+        </section>
+        <section id="infoPanel">
+            <div class="infoOverlay">
+                <h4></h4>
+                <h2></h2>
+                <h3></h3>
+            </div>
+        </section>
+    </body>
+        <link rel="stylesheet" href="vendor/radial.css">
+        
+        <script type="text/javascript" src="vendor/jquery-1.11.1.min.js"></script>
+        <script type="text/javascript" src="vendor/jquery.nicescroll.min.js"></script>
+        <script type="text/javascript" src="vendor/jquery-ui.js"></script>
+        <script type="text/javascript" src="vendor/jessie.js"></script>
+        <script type="text/javascript" src="vendor/dat.gui.min.js"></script>
+        <script type="text/javascript" src="vendor/d3.js"></script>
+        <script type="text/javascript" src="vendor/d3.hexbin.v0.min.js"></script>
+        <script type="text/javascript" src="vendor/d3.layout.cloud.js"></script>
+        <script type="text/javascript" src="vendor/underscore.js"></script>
+        <script type="text/javascript" src="vendor/radialProgress.js"></script>
+        <script type="text/javascript" src="vendor/slicer.js"></script>
+        <script type="text/javascript" src="vendor/pushtext.js"></script>
+
+        <script type="text/javascript" src="js/Config.js"></script>
+        <script type="text/javascript" src="js/Util.js"></script>
+        <script type="text/javascript" src="js/collection/EmployeeCollection.js"></script>
+        <script type="text/javascript" src="js/model/ApplicationModel.js"></script>
+        <script type="text/javascript" src="js/model/EmployeeModel.js"></script>
+        <script type="text/javascript" src="js/model/ProficiencyModel.js"></script>
+        <script type="text/javascript" src="js/model/SkillSetModel.js"></script>
+        <script type="text/javascript" src="js/Node.js"></script>
+        <script type="text/javascript" src="js/ParticleSystem.js"></script>
+        <script type="text/javascript" src="js/archeTron.js"></script>
+        <script type="text/javascript" src="js/archeTron.intro.js"></script>
+        <script type="text/javascript" src="js/archeTron.component.js"></script>
+        <script type="text/javascript" src="js/archeTron.searchPanel.js"></script>
+        <script type="text/javascript" src="js/archeTron.tronOverlay.js"></script>  
+        <script type="text/javascript" src="js/archeTron.infoOverlay.js"></script>
+        <script type="text/javascript" src="js/archeTron.wrapper.js"></script>        
+        <script type="text/javascript" src="js/Booter.js"></script>
 </html>

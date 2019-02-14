@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" baseProfile="basic" id="Layer_1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-93 357.9 409 126"
+	 xml:space="preserve">
+<g id="cluster" style="display:none;">
+	<path style="display:inline;fill:#939598;" d="M320.8,627.6c-17.9,0-32.5-14.6-32.5-32.5c0-17.9,14.6-32.5,32.5-32.5
+		s32.5,14.6,32.5,32.5C353.3,613,338.7,627.6,320.8,627.6z M320.8,567.6c-15.2,0-27.5,12.3-27.5,27.5c0,15.2,12.3,27.5,27.5,27.5
+		s27.5-12.3,27.5-27.5S336,567.6,320.8,567.6z"/>
+	<circle style="display:inline;fill:#F1F2F2;stroke:#F1F2F2;stroke-width:3;stroke-miterlimit:10;" cx="320.8" cy="595.1" r="2.5"/>
+	<circle style="display:inline;fill:none;stroke:#931A1D;stroke-width:5;stroke-miterlimit:10;" cx="320.8" cy="595.1" r="35"/>
+	<circle style="display:inline;opacity:0.6;fill:#FFFFFF;" cx="320.8" cy="595.1" r="30"/>
+</g>
+<g id="tron_0">
+	<circle id="base_2_" style="opacity:0.2;fill:#FFFFFF;" cx="41" cy="420.6" r="8"/>
+	<path id="innerArc" style="fill:#939598;" d="M41,430.6c-5.5,0-10-4.5-10-10s4.5-10,10-10s10,4.5,10,10S46.5,430.6,41,430.6z
+		 M41,412.6c-4.4,0-8,3.6-8,8c0,4.4,3.6,8,8,8s8-3.6,8-8S45.4,412.6,41,412.6z"/>
+	<circle id="center_3_" style="fill:#FFFFFF;stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;" cx="41" cy="420.6" r="0.7"/>
+	<g id="outerArc_2_">
+		<path style="fill:none;stroke:#1E3C64;stroke-width:5;stroke-miterlimit:10;" d="M53.5,420.6c0,6.9-5.6,12.5-12.5,12.5l0,0
+			c-6.9,0-12.5-5.6-12.5-12.5"/>
+		<path style="fill:none;stroke:#931A1D;stroke-width:5;stroke-miterlimit:10;" d="M28.5,420.6c0-6.9,5.6-12.5,12.5-12.5l0,0
+			c6.9,0,12.5,5.6,12.5,12.5"/>
+	</g>
+</g>
+<g id="tron_1">
+	<circle id="base_3_" style="opacity:0.2;fill:#FFFFFF;" cx="136" cy="420.6" r="8"/>
+	<path id="innerArc_3_" style="fill:#939598;" d="M136,430.6c-5.5,0-10-4.5-10-10s4.5-10,10-10s10,4.5,10,10S141.5,430.6,136,430.6z
+		 M136,412.6c-4.4,0-8,3.6-8,8c0,4.4,3.6,8,8,8s8-3.6,8-8S140.4,412.6,136,412.6z"/>
+	<circle id="center_5_" style="fill:#FFFFFF;stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;" cx="136" cy="420.6" r="0.7"/>
+	<g id="outerArc_3_">
+		<path style="fill:none;stroke:#7F3F98;stroke-width:5;stroke-miterlimit:10;" d="M136,433.1c-6.9,0-12.5-5.6-12.5-12.5"/>
+		<path style="fill:none;stroke:#1E3C64;stroke-width:5;stroke-miterlimit:10;" d="M148.5,420.6c0,6.9-5.6,12.5-12.5,12.5"/>
+		<path style="fill:none;stroke:#931A1D;stroke-width:5;stroke-miterlimit:10;" d="M136,408.1c6.9,0,12.5,5.6,12.5,12.5"/>
+		<path style="fill:none;stroke:#F26522;stroke-width:5;stroke-miterlimit:10;" d="M123.5,420.6c0-6.9,5.6-12.5,12.5-12.5"/>
+	</g>
+</g>
+<g id="tron_2">
+	<circle id="base_1_" style="opacity:0.2;fill:#FFFFFF;" cx="87.3" cy="420.6" r="8"/>
+	<path id="innerArc_1_" style="fill:#939598;" d="M87.3,430.6c-5.5,0-10-4.5-10-10s4.5-10,10-10s10,4.5,10,10S92.8,430.6,87.3,430.6
+		z M87.3,412.6c-4.4,0-8,3.6-8,8c0,4.4,3.6,8,8,8s8-3.6,8-8S91.7,412.6,87.3,412.6z"/>
+	<circle id="center_1_" style="fill:#FFFFFF;stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;" cx="87.3" cy="420.6" r="0.7"/>
+	<g id="outerArc_1_">
+		<path style="fill:none;stroke:#7F3F98;stroke-width:5;stroke-miterlimit:10;" d="M87.3,433.1c-6.9,0-12.5-5.6-12.5-12.5"/>
+		<path style="fill:none;stroke:#1E3C64;stroke-width:5;stroke-miterlimit:10;" d="M99.8,420.6c0,6.9-5.6,12.5-12.5,12.5"/>
+		<path style="fill:none;stroke:#931A1D;stroke-width:5;stroke-miterlimit:10;" d="M87.3,408.1c6.9,0,12.5,5.6,12.5,12.5"/>
+		<path style="fill:none;stroke:#F26522;stroke-width:5;stroke-miterlimit:10;" d="M74.8,420.6c0-6.9,5.6-12.5,12.5-12.5"/>
+	</g>
+</g>
+<g id="tron_3">
+	<circle id="base_4_" style="opacity:0.2;fill:#FFFFFF;" cx="185.7" cy="420.6" r="8"/>
+	<path id="innerArc_2_" style="fill:#939598;" d="M185.7,430.6c-5.5,0-10-4.5-10-10s4.5-10,10-10s10,4.5,10,10
+		S191.2,430.6,185.7,430.6z M185.7,412.6c-4.4,0-8,3.6-8,8c0,4.4,3.6,8,8,8s8-3.6,8-8S190.1,412.6,185.7,412.6z"/>
+	<circle id="center_2_" style="fill:#FFFFFF;stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;" cx="185.7" cy="420.6" r="0.7"/>
+	<g id="outerArc_4_">
+		<path style="fill:none;stroke:#931A1D;stroke-width:5;stroke-miterlimit:10;" d="M198.2,420.6c0,6.9-5.6,12.5-12.5,12.5l0,0
+			c-6.9,0-12.5-5.6-12.5-12.5"/>
+		<path style="fill:none;stroke:#F26522;stroke-width:5;stroke-miterlimit:10;" d="M173.2,420.6c0-6.9,5.6-12.5,12.5-12.5l0,0
+			c6.9,0,12.5,5.6,12.5,12.5"/>
+	</g>
+</g>
+</svg>
