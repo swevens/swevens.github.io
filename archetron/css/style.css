@@ -146,6 +146,7 @@ ul li {
 }
 .data-list {
     height: 100%;
+    display: grid;
 }
 .list-icon {
     float: left;
@@ -203,7 +204,9 @@ ul li {
     border-radius: 0px !important;
 }
 .lead .list-title {
-    background: none;
+    background: white;
+    font-weight: bold;
+    color: black;
 }
 .list ul li:hover .list-title,
 .list ul li:focus .list-title {
