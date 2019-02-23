@@ -121,7 +121,7 @@ section#intro ul {
     position: absolute;
 }
 .movingBg {
-    background: url("/img/bg_pattern.gif") repeat, radial-gradient(at 50% 100%, rgb(36, 102, 85) 0%, rgb(11, 37, 60) 55%, rgb(24, 8, 36) 90%) 0% 100% / 150% 100%;
+    background: url("/archetron/img/bg_pattern.gif") repeat, radial-gradient(at 50% 100%, rgb(36, 102, 85) 0%, rgb(11, 37, 60) 55%, rgb(24, 8, 36) 90%) 0% 100% / 150% 100%;
     animation: AnimationName 100s linear infinite;
     user-select: none;
 }
